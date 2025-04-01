@@ -11,20 +11,14 @@ fake = Faker()
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
 # order: oderId, customerId, orderDate, orderTime, total_quantity, total_price, employeeId
-def gen_order_data(num_orders, customerList, date_list):
-    id_list = []
-    cusId = []
-    date_list = []
-    time_list = []
-    quantity_list = []
-    price_list = []
-    employeeId_list = []
-
-    for i in range(num_orders):
-        orderId = i + 1
-        customerId = random.randint(len(customerList))
-        orderDate = random.choice(date_list)
-        orderTime = time(random.randint(6,21), random.randint(0,59), random.randint(0,59)).strftime("%H:%M:%S")
+def gen_order_data(num_orders, customerList, date_list, employeeList):
+    id_list = range(1, num_orders + 1)
+    cusId = [random.randint(1, len(customerList)) for _ in range(num_orders)]
+    date_list = [random.choice(date_list) for _ in range(num_orders)]
+    time_list = [time(random.randint(6,21), random.randint(0,59), random.randint(0,59)).strftime("%H:%M:%S") for _ in range(num_orders)]
+    quantity_list = [0] * num_orders
+    price_list = [0] * num_orders
+    employeeId_list = [random.choice(employeeList) for _ in range(num_orders)]
 
     df = pd.DataFrame({
         'orderId': id_list,
@@ -67,7 +61,7 @@ def gen_order_item(order_df, product_df, customer_df):
 
         order_df.loc[i, 'total_quantity'] = quantity
         order_df.loc[i, 'total_price'] = total_price
-        customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'remaining_point'] += total_price
+        customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'remaining_point'] += total_price // 5
 
     customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'point'] = customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'remaining_point']
 
@@ -238,8 +232,34 @@ def gen_review(num_reviews, num_customers, product_df, date_df):
 
 # gift_exchange: giftId, customerId, date, quantity
 def gen_gift_exchange(num_gift_exchanges, customer_df, date_list, gift_df):
-    
-    pass
+    gift_list = []
+    customerId = []
+    date = []
+    quantity = []
+
+    for i in range(num_gift_exchanges):
+        giftId = random.randint(1, len(gift_df))
+        quantity = random.randint(1, 3)
+        gift_list.append(giftId)
+        quantity.append(quantity)
+        customerId = random.randint(1, len(customer_df))
+        cnt = 0
+        while customer_df.loc[customerId - 1, 'remaining_point'] < giftId * 10 * quantity and cnt < 10:
+            cnt += 1
+            customerId = random.randint(1, len(customer_df))
+        if cnt == 10: continue
+        customerId.append(customerId)
+        date.append(random.choice(date_list))
+        customer_df.loc[customerId - 1, 'remaining_point'] -= giftId * 10 * quantity
+
+    df = pd.DataFrame({
+        'giftId': gift_list,
+        'customerId': customerId,
+        'date': date,
+        'quantity': quantity
+    })
+
+    return df
 
 # gift: giftId, name, state, point
 def gen_gift(num_gifts):
