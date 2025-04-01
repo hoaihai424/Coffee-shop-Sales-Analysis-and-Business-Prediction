@@ -1,0 +1,1001 @@
+productId,customerId,rating,comment,date
+56,78,5,"It was good, but it felt a bit overpriced.",20240601
+48,37,8,The restaurant had a unique and creative menu.,20221227
+67,13,2,The staff was unhelpful and seemed annoyed.,20240820
+2,22,1,The portion sizes were too small for the price.,20240607
+17,43,4,It was too greasy and heavy.,20220121
+14,26,4,The service was slow and unprofessional.,20240916
+54,31,3,It was overly sweet and artificial-tasting.,20231013
+48,38,1,The ambiance was dull and uninviting.,20240221
+75,43,3,It were watered down and disappointing.,20240501
+55,92,5,"It was fine, but it could have been more tender.",20240908
+57,34,5,"The coffee was okay, but not as strong as I like it.",20240403
+23,67,6,"It was served warm, but not hot.",20240327
+28,36,5,"It were fine, but they took too long to arrive.",20220909
+25,17,1,It was poorly plated and unappetizing.,20241106
+17,24,6,"The restaurant had a decent menu, but it wasn’t very unique.",20231215
+79,29,9,It was the best thing I’ve had in a long time.,20220709
+7,65,6,"It was fine, but I’ve had better elsewhere.",20230203
+7,78,2,The restaurant was cramped and uncomfortable.,20230907
+74,24,10,"It was worth every penny, great value for money.",20220228
+66,82,6,"It was served warm, but not hot.",20240606
+31,2,3,It took too long to arrive and wasn’t worth the wait.,20230302
+46,59,10,The service was attentive without being intrusive.,20231109
+76,27,1,It was undercooked and unsafe to have.,20220621
+56,37,8,The menu had a great variety of options to choose from.,20240315
+15,4,4,The service was slow and unprofessional.,20220323
+23,76,10,The presentation of the dish was stunning.,20241024
+71,21,9,It was creamy and had a rich flavor.,20230514
+79,18,7,"The ambiance was fine, but it felt a bit generic.",20240808
+30,1,6,"It was fine, but it wasn’t very fresh.",20230415
+36,51,10,The restaurant had a unique and creative menu.,20220523
+25,35,6,"It were okay, but not very creative.",20240201
+72,73,9,It were served at the perfect temperature.,20220416
+71,6,2,It tasted off and wasn’t fresh.,20230526
+8,47,4,The staff was rude and inattentive.,20221014
+80,37,3,The staff was unhelpful and seemed annoyed.,20240504
+79,87,9,The menu had a great variety of options to choose from.,20230715
+41,76,5,"It was good, but slightly overcooked.",20220423
+56,7,6,"It were okay, but not very creative.",20240114
+43,75,7,"The staff was polite, but not very attentive.",20241015
+27,87,8,The staff was polite and made us feel welcome.,20230214
+60,96,8,It was served hot and on time.,20230830
+53,57,7,"The ambiance was fine, but it felt a bit generic.",20230929
+49,77,9,The presentation of the dish was stunning.,20240911
+22,93,9,It were served at the perfect temperature.,20241025
+52,44,5,"It was fine, but it wasn’t very fresh.",20220101
+63,88,7,"It was decent, but nothing extraordinary.",20230313
+50,83,3,It were poorly made and tasted bad.,20220621
+43,76,9,It was tender and cooked exactly as requested.,20221208
+41,40,6,"It were fine, but they took too long to arrive.",20240415
+15,74,5,"The service was okay, but it could have been faster.",20220815
+22,81,1,It was bland and lacked flavor.,20230310
+13,91,9,The service was attentive without being intrusive.,20230504
+61,11,3,The restaurant failed to meet even basic expectations.,20230408
+7,34,5,"The staff was okay, but they seemed a bit rushed.",20220513
+61,75,9,It were served at the perfect temperature.,20240502
+84,87,1,It were served at the wrong temperature.,20230413
+19,27,5,"The coffee was okay, but not as strong as I like it.",20240628
+54,78,10,The ambiance was perfect for a romantic dinner.,20240706
+74,9,5,"It was good, but slightly overcooked.",20240404
+36,81,10,The restaurant was clean and well-maintained.,20240316
+37,47,9,It was heavenly and melted in my mouth.,20220418
+39,46,7,"The chef did a decent job, but the dishes lacked creativity.",20231114
+58,75,4,It was overly sweet and artificial-tasting.,20230822
+71,49,9,It was flavorful and left me wanting more.,20240528
+44,11,8,The service was quick and efficient.,20240503
+25,93,3,It was overly sweet and artificial-tasting.,20231213
+36,87,3,The service was chaotic and disorganized.,20220830
+49,81,1,Its platter was disappointing and lacked creativity.,20240918
+74,50,9,It was tender and cooked exactly as requested.,20240814
+5,82,6,"It was good, but it felt a bit overpriced.",20221229
+70,69,6,"It was good, but slightly overcooked.",20231104
+20,14,6,"The restaurant was clean, but the decor was outdated.",20220808
+26,69,9,It was fresh and beautifully presented.,20230513
+41,96,3,It were watered down and disappointing.,20230727
+33,1,8,The flavors were well-balanced and complemented each other.,20240211
+55,99,2,The restaurant had a limited and uninspired menu.,20221004
+21,4,4,It took too long to arrive and wasn’t worth the wait.,20240103
+71,54,5,"It was good, but slightly overcooked.",20240811
+32,20,7,"The chef did a decent job, but the dishes lacked creativity.",20220609
+69,29,1,It was too greasy and heavy.,20241126
+10,17,9,The flavors were authentic and reminded me of home.,20231024
+3,64,7,"The ambiance was nice, but the music was a bit loud.",20230130
+65,6,6,"It was good, but slightly overcooked.",20240625
+8,29,1,It was wilted and unappealing.,20230107
+79,56,2,The flavors were unbalanced and unpleasant.,20220915
+19,2,5,"It was served on time, but the presentation was lacking.",20231129
+79,76,4,The service was chaotic and disorganized.,20240810
+75,12,4,The restaurant was cramped and uncomfortable.,20240412
+2,22,10,The restaurant had a unique and creative menu.,20241130
+62,46,5,"It was good, but slightly overcooked.",20221129
+51,77,9,The staff went above and beyond to make our experience special.,20231127
+41,97,1,The portion sizes were too small for the price.,20230105
+4,35,2,It took too long to arrive and wasn’t worth the wait.,20240111
+20,44,8,It was juicy and packed with flavor.,20240118
+14,26,2,The restaurant was cramped and uncomfortable.,20240822
+44,42,2,The service was chaotic and disorganized.,20221221
+21,25,10,It was creamy and had a rich flavor.,20230727
+63,40,8,The restaurant had a great vibe and atmosphere.,20220914
+38,27,9,The restaurant was clean and well-maintained.,20231221
+82,43,8,It were refreshing and perfectly balanced.,20220211
+21,99,7,"It was fine, but it wasn’t very fresh.",20240727
+3,42,9,The staff was knowledgeable about the menu and made great recommendations.,20230923
+61,34,2,The restaurant had a limited and uninspired menu.,20240511
+48,44,5,"It was good, but it felt a bit overpriced.",20241123
+77,81,6,"It was served warm, but not hot.",20221012
+52,33,6,"The flavors were okay, but they didn’t wow me.",20240719
+33,29,6,"The ambiance was fine, but it felt a bit generic.",20240801
+75,47,1,It was bland and lacked flavor.,20220726
+11,29,10,The restaurant was clean and well-maintained.,20240609
+60,25,10,"It was warm and comforting, just what I needed.",20220812
+14,58,6,"It were fine, but they took too long to arrive.",20230701
+35,29,9,It was flavorful and left me wanting more.,20221025
+55,26,2,It was too greasy and heavy.,20240831
+23,10,10,It was fresh and beautifully presented.,20231113
+40,61,9,"It was worth every penny, great value for money.",20221011
+62,41,2,The ambiance was dull and uninviting.,20241028
+29,71,4,It was overly sweet and artificial-tasting.,20220504
+58,48,6,"The flavors were okay, but they didn’t wow me.",20240508
+69,48,1,The ambiance was ruined by loud noise and poor lighting.,20241014
+10,84,9,The restaurant exceeded my expectations in every way.,20220305
+12,10,10,"It was worth every penny, great value for money.",20240914
+73,86,1,It took too long to arrive and wasn’t worth the wait.,20221208
+29,76,7,"It was fine, but I’ve had better elsewhere.",20231224
+1,100,4,Its platter was disappointing and lacked creativity.,20230927
+4,3,10,The restaurant had a great vibe and atmosphere.,20240219
+27,87,1,It was forgettable and not worth recommending.,20240916
+23,21,4,It was forgettable and not worth recommending.,20220308
+52,63,3,Its platter was disappointing and lacked creativity.,20241124
+44,44,8,"It was warm and comforting, just what I needed.",20230312
+12,42,9,"It was rich and aromatic, just perfect.",20241022
+15,71,8,"The service was excellent, and the staff was very friendly.",20220213
+83,40,2,It was forgettable and not worth recommending.,20221228
+68,51,6,"The coffee was okay, but not as strong as I like it.",20230519
+47,21,3,The flavors were unbalanced and unpleasant.,20220319
+38,20,5,"It was fine, but it could have been more tender.",20231011
+25,72,8,The ingredients tasted fresh and high-quality.,20241113
+15,68,3,It took too long to arrive and wasn’t worth the wait.,20241212
+2,77,9,The restaurant exceeded my expectations in every way.,20221101
+77,19,7,"The menu had a decent variety, but nothing stood out.",20230318
+29,53,7,"The restaurant was nice, but it felt a bit crowded.",20240428
+58,26,1,The ambiance was dull and uninviting.,20220515
+83,8,10,The menu had a great variety of options to choose from.,20220818
+77,75,5,"The ambiance was fine, but it felt a bit generic.",20241013
+74,29,8,The ambiance of the restaurant was cozy and inviting.,20241206
+41,39,1,The flavors were unbalanced and unpleasant.,20230614
+18,16,2,The ambiance was ruined by loud noise and poor lighting.,20220822
+47,90,4,It was a complete letdown and not enjoyable.,20220329
+45,80,9,It was fresh and beautifully presented.,20240729
+9,7,6,"The staff was polite, but not very attentive.",20221231
+55,66,2,It were poorly made and tasted bad.,20221015
+47,18,2,It were watered down and disappointing.,20231207
+31,24,3,It were watered down and disappointing.,20220608
+45,75,5,"The appetizers were fine, but they were a bit bland.",20230531
+67,38,6,"The restaurant was clean, but the decor was outdated.",20220715
+39,99,2,The staff was unprofessional and unwelcoming.,20241104
+80,62,8,It was flavorful and left me wanting more.,20231201
+59,45,3,The restaurant had a limited and uninspired menu.,20231208
+57,58,8,The menu had a great variety of options to choose from.,20231108
+31,100,1,It was cold and unappetizing.,20230830
+82,63,9,The restaurant had a great vibe and atmosphere.,20240810
+43,87,8,The restaurant had a great vibe and atmosphere.,20220914
+24,52,10,It were refreshing and perfectly balanced.,20231227
+50,39,2,It was overpriced and not worth the money.,20241111
+69,51,4,It was overpriced and not worth the money.,20231119
+13,34,3,The restaurant was dirty and poorly maintained.,20240710
+69,44,9,The flavors were well-balanced and complemented each other.,20230327
+75,5,3,The restaurant had a limited and uninspired menu.,20230722
+15,88,5,"It was served warm, but not hot.",20240831
+24,35,9,It was absolutely delicious and full of flavor!,20241124
+19,26,8,"It was cooked to perfection, al dente!",20240825
+18,52,2,The service was slow and unprofessional.,20230908
+42,90,3,The restaurant had a limited and uninspired menu.,20230920
+13,81,8,It was the best thing I’ve had in a long time.,20241012
+58,35,5,"The coffee was okay, but not as strong as I like it.",20230512
+49,52,1,It was wilted and unappealing.,20220219
+37,22,10,The service was attentive without being intrusive.,20230807
+32,80,4,The flavors were unbalanced and unpleasant.,20220529
+48,90,2,The portion sizes were too small for the price.,20240513
+54,10,3,It was bland and lacked flavor.,20220414
+51,67,10,It was the best thing I’ve had in a long time.,20230316
+12,90,6,"The restaurant was clean, but the decor was outdated.",20230828
+42,13,9,The ambiance was perfect for a romantic dinner.,20220919
+14,61,9,It was the best thing I’ve had in a long time.,20230530
+48,38,7,"It were fine, but a bit too sweet for my taste.",20240611
+79,40,4,It was wilted and unappealing.,20221119
+58,40,9,It was tender and cooked exactly as requested.,20240422
+49,61,1,The service was slow and unprofessional.,20230928
+75,68,4,The ambiance was ruined by loud noise and poor lighting.,20240505
+3,82,10,The ambiance of the restaurant was cozy and inviting.,20220428
+13,50,5,"It was fine, but it wasn’t very fresh.",20221030
+58,18,5,"It was fine, but I’ve had better elsewhere.",20241024
+59,48,8,It was fresh and beautifully presented.,20220430
+80,69,10,The ambiance was perfect for a romantic dinner.,20241007
+64,82,8,It was fresh and beautifully presented.,20240217
+59,18,1,The flavors were unbalanced and unpleasant.,20231207
+26,98,8,"It was cooked to perfection, al dente!",20230411
+63,88,1,It was tough and hard to chew.,20230214
+8,80,4,The ambiance was dull and uninviting.,20230425
+42,74,10,"The service was excellent, and the staff was very friendly.",20230512
+47,75,5,"It was fine, but it wasn’t very fresh.",20240612
+67,84,3,It was overpriced and not worth the money.,20240105
+23,36,5,"The menu had a decent variety, but nothing stood out.",20240625
+78,60,9,It was served hot and on time.,20241101
+17,20,1,The staff was unhelpful and seemed annoyed.,20231029
+74,5,7,"It were fine, but they took too long to arrive.",20220408
+48,80,3,It was cold and unappetizing.,20240425
+53,79,1,The flavors were unbalanced and unpleasant.,20240329
+47,33,10,The staff was polite and made us feel welcome.,20220308
+57,57,1,It was too greasy and heavy.,20241111
+63,65,7,"The staff was polite, but not very attentive.",20241003
+39,67,10,"It was worth every penny, great value for money.",20240730
+75,69,1,It were watered down and disappointing.,20230626
+50,89,10,The flavors were well-balanced and complemented each other.,20220623
+35,3,10,"The service was excellent, and the staff was very friendly.",20230928
+14,90,9,The staff went above and beyond to make our experience special.,20231021
+77,35,10,The restaurant was clean and well-maintained.,20240603
+52,81,2,The staff was unprofessional and unwelcoming.,20241020
+51,68,1,It was cold and unappetizing.,20221224
+40,61,4,It were poorly made and tasted bad.,20230303
+70,13,1,Its platter was disappointing and lacked creativity.,20220711
+19,99,4,It was tough and hard to chew.,20240103
+66,30,1,It were watered down and disappointing.,20220428
+23,18,8,"It was worth every penny, great value for money.",20221128
+17,79,3,The restaurant was dirty and poorly maintained.,20230310
+81,6,5,"It was cooked well, but it lacked seasoning.",20231125
+80,60,2,The staff was unprofessional and unwelcoming.,20221007
+35,26,4,The restaurant failed to meet even basic expectations.,20220503
+34,8,5,"The staff was polite, but not very attentive.",20230523
+68,45,3,The flavors were unbalanced and unpleasant.,20220622
+9,46,5,"The service was okay, but it could have been faster.",20240527
+43,90,3,The service was slow and unprofessional.,20240609
+74,78,1,It was wilted and unappealing.,20230206
+63,42,9,It was creamy and had a rich flavor.,20220521
+70,64,6,"The staff was polite, but not very attentive.",20220604
+11,96,2,It was poorly plated and unappetizing.,20230117
+68,42,5,"It were fine, but they took too long to arrive.",20220220
+45,65,5,"The appetizers were fine, but they were a bit bland.",20240302
+74,80,5,"The flavors were fine, but they didn’t feel authentic.",20220920
+22,57,3,The service was chaotic and disorganized.,20231105
+62,90,9,The flavors were well-balanced and complemented each other.,20230205
+23,89,9,It were creative and expertly crafted.,20240502
+51,5,6,"It were okay, but not very creative.",20220907
+7,58,7,"It was cooked well, but it lacked seasoning.",20241128
+27,12,3,The restaurant was dirty and poorly maintained.,20240529
+42,90,3,The service was chaotic and disorganized.,20240204
+4,91,10,The ambiance of the restaurant was cozy and inviting.,20240412
+4,80,10,The presentation of the dish was stunning.,20220421
+35,47,10,"It was rich and aromatic, just perfect.",20241210
+30,66,6,"The service was okay, but it could have been faster.",20220319
+55,57,2,The service was chaotic and disorganized.,20231023
+4,62,7,"The service was fine, but it wasn’t very memorable.",20220927
+6,3,5,"It were fine, but they took too long to arrive.",20220914
+7,70,3,The service was chaotic and disorganized.,20230917
+51,63,9,The flavors were well-balanced and complemented each other.,20221127
+61,59,1,It was a complete letdown and not enjoyable.,20230324
+7,100,5,"It was good, but slightly overcooked.",20240218
+41,92,1,It was overpriced and not worth the money.,20230319
+42,80,7,"The coffee was okay, but not as strong as I like it.",20240116
+78,71,4,The service was slow and unprofessional.,20220203
+65,74,3,The chef didn’t seem to put much effort into the dishes.,20240203
+16,54,2,The ambiance was ruined by loud noise and poor lighting.,20220304
+15,4,10,It was creamy and had a rich flavor.,20230409
+31,20,8,It was served hot and on time.,20230926
+15,84,1,The staff was unprofessional and unwelcoming.,20220912
+70,45,1,The portion sizes were too small for the price.,20220823
+46,87,6,"The service was fine, but it could have been more friendly.",20230620
+25,33,5,"It was cooked well, but it lacked seasoning.",20220604
+54,61,4,It was forgettable and not worth recommending.,20241231
+3,76,1,The chef didn’t seem to put much effort into the dishes.,20230227
+38,9,5,"The staff was polite, but not very attentive.",20240122
+40,34,3,It was overpriced and not worth the money.,20220818
+75,59,7,"It was okay, but it didn’t leave a lasting impression.",20230225
+21,33,2,The portion sizes were too small for the price.,20220126
+4,92,6,"The menu had a decent variety, but nothing stood out.",20230125
+16,41,10,It were served at the perfect temperature.,20240801
+72,45,5,"The flavors were fine, but they didn’t feel authentic.",20221020
+69,39,10,"It was warm and comforting, just what I needed.",20221214
+26,25,10,The restaurant exceeded my expectations in every way.,20220504
+30,90,7,"The coffee was okay, but not as strong as I like it.",20220925
+55,73,2,It was overly sweet and artificial-tasting.,20230728
+45,26,6,"It was fine, but it could have been more tender.",20220405
+22,36,6,"The staff was polite, but not very attentive.",20240909
+57,72,2,It was overcooked and mushy.,20220131
+75,40,1,It were watered down and disappointing.,20231017
+65,46,3,The restaurant was cramped and uncomfortable.,20230819
+61,76,4,The staff was unhelpful and seemed annoyed.,20220315
+19,35,3,It was tough and hard to chew.,20241001
+79,39,8,The staff was knowledgeable about the menu and made great recommendations.,20230519
+70,76,9,"The service was excellent, and the staff was very friendly.",20220203
+33,21,6,"The service was fine, but it wasn’t very memorable.",20230917
+34,45,10,It was flavorful and left me wanting more.,20231111
+24,69,6,"The restaurant was clean, but the decor was outdated.",20240523
+8,41,5,"The staff was okay, but they seemed a bit rushed.",20240402
+79,93,10,It was fresh and beautifully presented.,20230224
+8,28,2,It was tough and hard to chew.,20220629
+6,24,9,The flavors were well-balanced and complemented each other.,20240906
+32,63,9,The ambiance was perfect for a romantic dinner.,20230403
+34,52,6,"The restaurant was nice, but it felt a bit crowded.",20220228
+72,81,4,The flavors were unbalanced and unpleasant.,20220318
+54,79,5,"It was cooked well, but it lacked seasoning.",20220204
+75,91,6,"The staff was polite, but not very attentive.",20220117
+76,19,2,The chef didn’t seem to put much effort into the dishes.,20220810
+20,69,10,It was flavorful and left me wanting more.,20231114
+29,51,7,"The flavors were okay, but they didn’t wow me.",20220630
+31,4,6,"The restaurant had a decent menu, but it wasn’t very unique.",20230702
+29,42,6,"The service was fine, but it could have been more friendly.",20241025
+84,99,1,It took too long to arrive and wasn’t worth the wait.,20220607
+22,23,10,It was heavenly and melted in my mouth.,20241216
+42,97,1,It was bland and lacked flavor.,20231021
+43,28,4,The staff was rude and inattentive.,20240820
+36,53,5,"It were fine, but they took too long to arrive.",20221209
+70,52,2,The staff was unhelpful and seemed annoyed.,20220112
+83,63,2,The staff was unprofessional and unwelcoming.,20230305
+12,74,5,"It was good, but it felt a bit overpriced.",20220527
+46,17,3,The restaurant was dirty and poorly maintained.,20231018
+38,98,7,"It were fine, but a bit too sweet for my taste.",20220210
+64,31,4,It was a complete letdown and not enjoyable.,20230117
+45,91,5,"It was good, but it felt a bit overpriced.",20240630
+37,90,4,The portion sizes were too small for the price.,20240803
+33,12,9,It was fresh and beautifully presented.,20220518
+54,25,1,It tasted off and wasn’t fresh.,20220527
+65,93,10,The portion sizes were generous and satisfying.,20240330
+49,4,7,"It was fine, but the dressing was too heavy.",20240913
+18,21,6,"The restaurant had a decent menu, but it wasn’t very unique.",20240722
+21,64,3,The restaurant was dirty and poorly maintained.,20240214
+53,50,4,The staff was rude and inattentive.,20240824
+24,45,1,The staff was unhelpful and seemed annoyed.,20230720
+17,33,9,It was fresh and beautifully presented.,20220803
+33,20,10,The staff was polite and made us feel welcome.,20241002
+64,9,1,The ambiance was ruined by loud noise and poor lighting.,20221109
+20,70,1,It was tough and hard to chew.,20231226
+58,55,7,"The staff was okay, but they seemed a bit rushed.",20240713
+40,51,2,The service was chaotic and disorganized.,20220705
+40,64,3,It was tough and hard to chew.,20220518
+4,66,1,It was poorly plated and unappetizing.,20241212
+18,95,1,The ambiance was dull and uninviting.,20241215
+2,60,1,It were served at the wrong temperature.,20240406
+21,65,7,"It was okay, but it didn’t leave a lasting impression.",20241224
+50,81,7,"It was served on time, but the presentation was lacking.",20230519
+81,57,7,"It was decent, but nothing extraordinary.",20220404
+25,29,10,The ambiance of the restaurant was cozy and inviting.,20220621
+82,79,9,It was the best thing I’ve had in a long time.,20220315
+78,23,2,The staff was rude and inattentive.,20220829
+26,77,9,It were creative and expertly crafted.,20220626
+23,56,8,"It was rich and aromatic, just perfect.",20220813
+75,67,6,"The chef did a decent job, but the dishes lacked creativity.",20241022
+7,77,10,"It was cooked to perfection, al dente!",20230516
+7,40,2,The ambiance was dull and uninviting.,20231130
+37,86,9,The ambiance was perfect for a romantic dinner.,20220824
+41,60,7,"It were fine, but a bit too sweet for my taste.",20221227
+76,29,9,It was fresh and beautifully presented.,20221124
+15,49,2,The restaurant was dirty and poorly maintained.,20240304
+25,44,10,The ambiance of the restaurant was cozy and inviting.,20220205
+23,67,5,"The menu had a decent variety, but nothing stood out.",20240901
+17,2,2,It was tough and hard to chew.,20240703
+46,46,5,"It was cooked well, but it lacked seasoning.",20240714
+10,7,2,The restaurant failed to meet even basic expectations.,20240714
+41,13,4,It was poorly plated and unappetizing.,20240106
+66,78,2,The service was slow and unprofessional.,20240412
+15,23,4,It was wilted and unappealing.,20220713
+16,86,4,The staff was unprofessional and unwelcoming.,20240507
+64,9,3,The portion sizes were too small for the price.,20230128
+81,78,5,"It was served on time, but the presentation was lacking.",20220528
+65,87,10,It was juicy and packed with flavor.,20240429
+27,78,2,It was forgettable and not worth recommending.,20220926
+49,68,8,"It was cooked to perfection, al dente!",20240621
+42,45,6,"The restaurant was clean, but the decor was outdated.",20230726
+34,44,5,"The coffee was okay, but not as strong as I like it.",20230415
+33,40,4,It was undercooked and unsafe to have.,20240405
+77,64,6,"It were okay, but not very creative.",20220730
+2,65,9,It were refreshing and perfectly balanced.,20221209
+37,76,1,It was overly sweet and artificial-tasting.,20240705
+81,66,5,"It was fine, but I’ve had better elsewhere.",20221002
+82,35,3,The staff was unprofessional and unwelcoming.,20241120
+10,83,5,"It was decent, but nothing extraordinary.",20221216
+69,14,3,It was tough and hard to chew.,20220815
+28,72,4,It was undercooked and unsafe to have.,20220917
+78,4,10,"It was warm and comforting, just what I needed.",20231129
+17,47,1,It was forgettable and not worth recommending.,20230406
+49,56,1,It was wilted and unappealing.,20231218
+10,59,1,It were poorly made and tasted bad.,20220419
+28,27,2,It tasted off and wasn’t fresh.,20240609
+72,59,3,It was overcooked and mushy.,20240904
+15,42,5,"It was okay, but it didn’t leave a lasting impression.",20230410
+1,70,5,"The coffee was okay, but not as strong as I like it.",20220612
+71,66,8,The staff went above and beyond to make our experience special.,20240612
+83,90,6,"It was fine, but I’ve had better elsewhere.",20221019
+28,20,4,The restaurant was cramped and uncomfortable.,20240518
+40,28,6,"It was served warm, but not hot.",20240908
+43,66,6,"It was good, but slightly overcooked.",20240119
+80,87,8,The portion sizes were generous and satisfying.,20230410
+66,5,5,"The flavors were fine, but they didn’t feel authentic.",20221209
+51,58,5,"The ambiance was fine, but it felt a bit generic.",20240114
+28,55,7,"The service was fine, but it could have been more friendly.",20241207
+9,70,5,"The restaurant had a decent menu, but it wasn’t very unique.",20231025
+18,29,7,"The appetizers were fine, but they were a bit bland.",20220327
+3,41,10,It was the best thing I’ve had in a long time.,20220118
+73,82,7,"The coffee was okay, but not as strong as I like it.",20241204
+63,49,9,It was flavorful and left me wanting more.,20230130
+60,38,7,"The flavors were okay, but they didn’t wow me.",20220920
+5,35,8,The flavors were well-balanced and complemented each other.,20220706
+74,18,7,"The restaurant had a decent menu, but it wasn’t very unique.",20241011
+5,71,4,It was overly sweet and artificial-tasting.,20220208
+78,64,3,It was undercooked and unsafe to have.,20220224
+44,67,2,It was poorly plated and unappetizing.,20230821
+56,36,9,It was absolutely delicious and full of flavor!,20231027
+62,91,2,It was undercooked and unsafe to have.,20220326
+20,53,8,It were served at the perfect temperature.,20221204
+82,43,3,The service was slow and unprofessional.,20220924
+22,30,6,"The restaurant was nice, but it felt a bit crowded.",20230202
+29,95,6,"The service was okay, but it could have been faster.",20220922
+28,13,1,The portion sizes were too small for the price.,20230921
+51,70,1,It were served at the wrong temperature.,20231226
+63,51,2,The restaurant had a limited and uninspired menu.,20240129
+45,95,1,The restaurant had a limited and uninspired menu.,20220724
+69,77,2,It tasted off and wasn’t fresh.,20231026
+24,10,5,"The restaurant was nice, but it felt a bit crowded.",20230313
+49,73,5,"The menu had a decent variety, but nothing stood out.",20230926
+10,77,8,"It was cooked to perfection, al dente!",20220103
+19,24,3,It was wilted and unappealing.,20231021
+12,24,6,"The ambiance was fine, but it felt a bit generic.",20230808
+47,12,4,The restaurant failed to meet even basic expectations.,20241116
+67,9,3,It was tough and hard to chew.,20220324
+27,38,5,"The staff was okay, but they seemed a bit rushed.",20220331
+78,85,8,It were creative and expertly crafted.,20220323
+50,56,4,The flavors were unbalanced and unpleasant.,20230703
+78,40,7,"The service was okay, but it could have been faster.",20240901
+75,83,6,"It was served on time, but the presentation was lacking.",20221009
+84,17,9,It was fresh and beautifully presented.,20230308
+48,59,3,It was tough and hard to chew.,20240601
+3,16,3,The ambiance was dull and uninviting.,20231229
+13,27,3,It tasted off and wasn’t fresh.,20220428
+52,39,4,It was forgettable and not worth recommending.,20230618
+39,98,5,"The service was okay, but it could have been faster.",20231019
+70,19,9,The flavors were authentic and reminded me of home.,20230712
+47,14,3,It tasted off and wasn’t fresh.,20230610
+11,96,10,The ingredients tasted fresh and high-quality.,20220614
+47,90,7,"The staff was polite, but not very attentive.",20240426
+75,75,2,It was bland and lacked flavor.,20220514
+12,12,6,"It were okay, but not very creative.",20230930
+31,31,3,The restaurant failed to meet even basic expectations.,20240727
+2,19,4,The chef didn’t seem to put much effort into the dishes.,20231121
+55,25,5,"The service was fine, but it could have been more friendly.",20240409
+28,89,2,The portion sizes were too small for the price.,20240320
+37,8,4,It was tough and hard to chew.,20230814
+19,61,5,"It were okay, but not very creative.",20241104
+11,26,7,"The chef did a decent job, but the dishes lacked creativity.",20241226
+42,37,6,"The restaurant had a decent menu, but it wasn’t very unique.",20230311
+56,15,10,It was the best thing I’ve had in a long time.,20220515
+67,76,10,The flavors were authentic and reminded me of home.,20220722
+8,76,8,The staff went above and beyond to make our experience special.,20230724
+29,11,1,It was too greasy and heavy.,20240525
+58,41,3,It was overcooked and mushy.,20231007
+57,30,5,"The chef did a decent job, but the dishes lacked creativity.",20220515
+74,12,5,"It was fine, but it wasn’t very fresh.",20220621
+73,92,4,The service was inattentive and frustrating.,20220610
+84,66,8,"It was cooked to perfection, al dente!",20220812
+70,77,7,"It were fine, but they took too long to arrive.",20230922
+77,26,8,The restaurant exceeded my expectations in every way.,20230330
+81,13,6,"The staff was polite, but not very attentive.",20240220
+71,76,1,The restaurant was cramped and uncomfortable.,20240722
+45,45,5,"It were fine, but they took too long to arrive.",20240428
+14,5,3,The ambiance was dull and uninviting.,20220529
+36,58,6,"The service was okay, but it could have been faster.",20230808
+41,72,2,The restaurant was dirty and poorly maintained.,20240502
+56,24,9,The portion sizes were generous and satisfying.,20240724
+22,36,2,The restaurant failed to meet even basic expectations.,20231208
+14,98,7,"The restaurant was nice, but it felt a bit crowded.",20231106
+36,12,4,The flavors were unbalanced and unpleasant.,20230822
+57,31,6,"It was fine, but it could have been more tender.",20231211
+72,17,2,The service was slow and unprofessional.,20230701
+18,2,10,"It was rich and aromatic, just perfect.",20231203
+23,50,3,The staff was unprofessional and unwelcoming.,20220222
+56,57,6,"It was okay, but it didn’t leave a lasting impression.",20220129
+78,20,2,It was a complete letdown and not enjoyable.,20230403
+37,36,1,The staff was unprofessional and unwelcoming.,20231015
+25,86,1,The ambiance was ruined by loud noise and poor lighting.,20240624
+73,41,5,"It were fine, but a bit too sweet for my taste.",20240516
+36,66,8,It was heavenly and melted in my mouth.,20240414
+16,56,10,The ambiance was perfect for a romantic dinner.,20240619
+20,43,5,"The menu had a decent variety, but nothing stood out.",20240221
+23,42,9,It was creamy and had a rich flavor.,20230616
+26,23,9,The service was attentive without being intrusive.,20221111
+11,89,8,The ambiance of the restaurant was cozy and inviting.,20220109
+22,85,5,"The appetizers were fine, but they were a bit bland.",20220513
+48,1,10,The ambiance was perfect for a romantic dinner.,20231107
+73,2,1,It was cold and unappetizing.,20230914
+15,81,3,It tasted off and wasn’t fresh.,20231227
+17,54,10,The portion sizes were generous and satisfying.,20230611
+38,91,5,"The restaurant was nice, but it felt a bit crowded.",20230503
+10,22,5,"The service was okay, but it could have been faster.",20230508
+17,96,9,"It was rich and aromatic, just perfect.",20220206
+50,79,3,It took too long to arrive and wasn’t worth the wait.,20230203
+82,11,3,It was undercooked and unsafe to have.,20230327
+40,31,4,The staff was unprofessional and unwelcoming.,20221129
+42,35,10,"The service was excellent, and the staff was very friendly.",20230705
+39,7,4,It was wilted and unappealing.,20220204
+11,38,1,The staff was unhelpful and seemed annoyed.,20230713
+59,86,7,"It was decent, but nothing extraordinary.",20241023
+76,98,7,"It was good, but slightly overcooked.",20220307
+4,86,10,The ambiance was perfect for a romantic dinner.,20240117
+28,60,1,It was too greasy and heavy.,20240907
+50,7,5,"It was fine, but the dressing was too heavy.",20221115
+13,96,3,It took too long to arrive and wasn’t worth the wait.,20220112
+8,1,2,It was overpriced and not worth the money.,20230225
+73,86,9,The menu had a great variety of options to choose from.,20221204
+6,38,3,The restaurant failed to meet even basic expectations.,20230315
+65,65,10,It were served at the perfect temperature.,20221025
+17,76,9,It was fresh and beautifully presented.,20241115
+36,46,4,It took too long to arrive and wasn’t worth the wait.,20220522
+81,90,2,The staff was rude and inattentive.,20220828
+56,30,9,It were served at the perfect temperature.,20220312
+77,93,9,It was juicy and packed with flavor.,20230817
+47,56,7,"It was cooked well, but it lacked seasoning.",20230411
+79,57,8,The restaurant was clean and well-maintained.,20231120
+1,50,6,"It were okay, but not very creative.",20240111
+45,70,9,It was heavenly and melted in my mouth.,20220218
+6,43,2,It was poorly plated and unappetizing.,20241022
+80,61,1,It was poorly plated and unappetizing.,20220827
+69,62,7,"The restaurant was nice, but it felt a bit crowded.",20230629
+81,92,5,"It was good, but slightly overcooked.",20230423
+74,62,5,"The restaurant had a decent menu, but it wasn’t very unique.",20240601
+46,33,10,The restaurant was clean and well-maintained.,20240709
+59,32,3,The restaurant failed to meet even basic expectations.,20240520
+5,80,5,"The restaurant was nice, but it felt a bit crowded.",20230517
+12,5,5,"The restaurant had a decent menu, but it wasn’t very unique.",20240411
+36,15,1,It was overcooked and mushy.,20220429
+56,62,9,The staff was knowledgeable about the menu and made great recommendations.,20230429
+60,55,9,The restaurant had a unique and creative menu.,20220210
+11,13,9,It was heavenly and melted in my mouth.,20240316
+59,39,3,It was overcooked and mushy.,20230110
+37,89,2,The service was slow and unprofessional.,20221115
+37,82,10,The portion sizes were generous and satisfying.,20240921
+71,46,1,The service was slow and unprofessional.,20230706
+59,97,1,It was overly sweet and artificial-tasting.,20230515
+9,40,9,The restaurant had a unique and creative menu.,20230829
+23,54,1,It was overcooked and mushy.,20220729
+24,36,1,It was cold and unappetizing.,20230409
+30,41,3,The chef didn’t seem to put much effort into the dishes.,20220112
+72,24,2,It were poorly made and tasted bad.,20230720
+25,3,10,The flavors were well-balanced and complemented each other.,20220320
+19,10,9,The staff went above and beyond to make our experience special.,20220213
+1,13,9,The staff was knowledgeable about the menu and made great recommendations.,20230920
+18,28,2,The staff was rude and inattentive.,20220518
+78,2,5,"The restaurant was clean, but the decor was outdated.",20240611
+66,44,6,"The ambiance was nice, but the music was a bit loud.",20230519
+3,64,6,"The chef did a decent job, but the dishes lacked creativity.",20220907
+42,17,8,It were served at the perfect temperature.,20221127
+42,16,9,The restaurant had a unique and creative menu.,20230728
+71,34,9,"It was worth every penny, great value for money.",20220208
+27,52,8,"It was worth every penny, great value for money.",20240414
+44,44,5,"The chef did a decent job, but the dishes lacked creativity.",20231224
+65,83,10,The flavors were authentic and reminded me of home.,20220917
+12,19,4,It was overpriced and not worth the money.,20230601
+30,74,9,"It was rich and aromatic, just perfect.",20240519
+42,72,9,"It was cooked to perfection, al dente!",20220726
+41,28,9,The flavors were authentic and reminded me of home.,20241231
+57,20,8,It was heavenly and melted in my mouth.,20220429
+41,63,7,"The staff was polite, but not very attentive.",20220513
+5,60,9,It was heavenly and melted in my mouth.,20240204
+59,26,10,"It was rich and aromatic, just perfect.",20230613
+59,40,5,"It was good, but slightly overcooked.",20230519
+65,21,8,The menu had a great variety of options to choose from.,20220921
+49,90,1,The staff was rude and inattentive.,20231001
+30,29,10,It were served at the perfect temperature.,20221006
+45,11,3,The staff was rude and inattentive.,20230419
+14,8,8,It was absolutely delicious and full of flavor!,20240508
+60,2,3,The flavors were unbalanced and unpleasant.,20240824
+66,96,2,It tasted off and wasn’t fresh.,20220130
+33,90,1,It was cold and unappetizing.,20220625
+83,8,4,The staff was unprofessional and unwelcoming.,20230929
+16,47,9,It was tender and cooked exactly as requested.,20230308
+59,22,2,The staff was rude and inattentive.,20240325
+80,63,9,"It was rich and aromatic, just perfect.",20221225
+64,42,9,The flavors were well-balanced and complemented each other.,20240101
+83,56,10,The flavors were well-balanced and complemented each other.,20221212
+3,39,8,The service was quick and efficient.,20230516
+25,35,3,It was tough and hard to chew.,20220128
+5,22,3,It tasted off and wasn’t fresh.,20240401
+35,86,5,"It was good, but it felt a bit overpriced.",20230622
+61,57,2,The portion sizes were too small for the price.,20230109
+32,12,9,The menu had a great variety of options to choose from.,20240619
+1,17,7,"It was good, but it felt a bit overpriced.",20220906
+48,63,7,"It were okay, but not very creative.",20240427
+61,64,5,"The chef did a decent job, but the dishes lacked creativity.",20220121
+51,1,8,It was the best thing I’ve had in a long time.,20231013
+59,9,2,It was tough and hard to chew.,20240509
+65,95,8,"It was warm and comforting, just what I needed.",20220904
+25,41,9,It was fresh and beautifully presented.,20220108
+65,100,6,"The staff was okay, but they seemed a bit rushed.",20240613
+44,47,7,"The restaurant was clean, but the decor was outdated.",20220818
+18,51,7,"The restaurant was clean, but the decor was outdated.",20220509
+6,68,3,The service was inattentive and frustrating.,20240802
+65,9,9,It was heavenly and melted in my mouth.,20230111
+62,83,5,"It were fine, but a bit too sweet for my taste.",20230303
+69,32,10,It was juicy and packed with flavor.,20230204
+52,87,9,The ambiance was perfect for a romantic dinner.,20220202
+43,51,9,The portion sizes were generous and satisfying.,20220605
+57,100,9,The staff went above and beyond to make our experience special.,20230318
+6,6,10,The staff was polite and made us feel welcome.,20240113
+3,32,5,"The restaurant was nice, but it felt a bit crowded.",20230905
+9,74,10,The ingredients tasted fresh and high-quality.,20240729
+23,28,1,It were served at the wrong temperature.,20241120
+27,88,8,The presentation of the dish was stunning.,20240216
+22,3,9,The restaurant had a unique and creative menu.,20221020
+50,50,4,It was a complete letdown and not enjoyable.,20220920
+42,8,1,The service was chaotic and disorganized.,20240726
+37,41,8,The menu had a great variety of options to choose from.,20220501
+19,29,6,"It were fine, but a bit too sweet for my taste.",20240414
+50,85,9,The staff went above and beyond to make our experience special.,20220614
+72,64,5,"The service was okay, but it could have been faster.",20240326
+68,13,8,It were served at the perfect temperature.,20240107
+26,28,4,It was wilted and unappealing.,20240727
+76,76,6,"The menu had a decent variety, but nothing stood out.",20230502
+76,47,4,It were poorly made and tasted bad.,20230223
+41,98,7,"The staff was okay, but they seemed a bit rushed.",20240206
+48,68,9,"It was rich and aromatic, just perfect.",20220322
+55,33,8,It was absolutely delicious and full of flavor!,20220118
+14,91,9,It was served hot and on time.,20221011
+72,73,6,"The chef did a decent job, but the dishes lacked creativity.",20230906
+17,23,5,"The restaurant was nice, but it felt a bit crowded.",20230222
+66,70,5,"The appetizers were fine, but they were a bit bland.",20230725
+16,73,7,"It was decent, but nothing extraordinary.",20230911
+9,95,2,The portion sizes were too small for the price.,20240217
+9,29,10,The restaurant had a unique and creative menu.,20220613
+1,11,2,It was wilted and unappealing.,20220407
+42,87,4,It was forgettable and not worth recommending.,20220831
+26,74,8,It were creative and expertly crafted.,20230722
+37,54,7,"The ambiance was nice, but the music was a bit loud.",20220516
+63,87,7,"It was fine, but it could have been more tender.",20240809
+3,6,3,It was a complete letdown and not enjoyable.,20220424
+29,31,8,The staff was polite and made us feel welcome.,20220527
+37,37,6,"The chef did a decent job, but the dishes lacked creativity.",20240707
+65,84,9,The staff was polite and made us feel welcome.,20240901
+50,42,3,The restaurant failed to meet even basic expectations.,20220812
+15,18,6,"The coffee was okay, but not as strong as I like it.",20240406
+23,86,9,"The service was excellent, and the staff was very friendly.",20220204
+33,38,5,"It was good, but slightly overcooked.",20240114
+44,59,6,"It was served on time, but the presentation was lacking.",20230908
+55,48,3,It was overcooked and mushy.,20220823
+32,34,2,The ambiance was dull and uninviting.,20220428
+13,15,3,It was undercooked and unsafe to have.,20221028
+73,86,2,The restaurant was cramped and uncomfortable.,20241108
+2,68,3,It were served at the wrong temperature.,20220326
+12,17,1,It tasted off and wasn’t fresh.,20221216
+20,80,8,It was fresh and beautifully presented.,20230523
+14,55,6,"The service was okay, but it could have been faster.",20230630
+51,59,2,The chef didn’t seem to put much effort into the dishes.,20240530
+81,70,8,The staff was polite and made us feel welcome.,20220326
+4,8,1,It were served at the wrong temperature.,20230426
+18,76,2,It tasted off and wasn’t fresh.,20231017
+48,4,3,The staff was rude and inattentive.,20220425
+36,42,4,The staff was unhelpful and seemed annoyed.,20220112
+56,71,3,The chef didn’t seem to put much effort into the dishes.,20230725
+65,81,4,The restaurant was cramped and uncomfortable.,20230425
+10,7,2,The ambiance was dull and uninviting.,20230501
+60,31,7,"The staff was polite, but not very attentive.",20231225
+1,54,1,It was overly sweet and artificial-tasting.,20241112
+11,61,3,The staff was unhelpful and seemed annoyed.,20230327
+2,2,1,The flavors were unbalanced and unpleasant.,20241225
+74,76,4,It were served at the wrong temperature.,20240622
+58,78,8,The flavors were well-balanced and complemented each other.,20220819
+29,11,3,The flavors were unbalanced and unpleasant.,20230102
+69,13,8,The presentation of the dish was stunning.,20230324
+76,87,8,It was absolutely delicious and full of flavor!,20220315
+45,98,5,"The restaurant was nice, but it felt a bit crowded.",20230129
+71,80,10,The menu had a great variety of options to choose from.,20231018
+60,52,7,"It was served on time, but the presentation was lacking.",20220204
+23,9,10,It were refreshing and perfectly balanced.,20221206
+70,63,1,It tasted off and wasn’t fresh.,20220628
+35,73,10,It was juicy and packed with flavor.,20230215
+18,89,6,"It was fine, but it could have been more tender.",20230316
+84,73,7,"It were okay, but not very creative.",20231126
+23,54,3,The service was chaotic and disorganized.,20231014
+73,63,6,"It was good, but it felt a bit overpriced.",20230528
+60,98,2,The staff was unhelpful and seemed annoyed.,20221030
+13,89,10,"The service was excellent, and the staff was very friendly.",20231013
+62,90,1,The chef didn’t seem to put much effort into the dishes.,20230210
+57,86,8,It was absolutely delicious and full of flavor!,20240616
+36,80,2,It were watered down and disappointing.,20230531
+82,92,5,"It were okay, but not very creative.",20220409
+54,68,8,It was flavorful and left me wanting more.,20240205
+53,3,3,It was a complete letdown and not enjoyable.,20230113
+23,88,9,It was heavenly and melted in my mouth.,20231110
+73,75,10,The restaurant had a unique and creative menu.,20220310
+77,55,5,"The restaurant had a decent menu, but it wasn’t very unique.",20220224
+42,27,5,"It was served on time, but the presentation was lacking.",20240505
+23,14,8,The restaurant had a unique and creative menu.,20230519
+81,100,2,The restaurant was cramped and uncomfortable.,20220113
+71,61,2,Its platter was disappointing and lacked creativity.,20220811
+2,81,5,"The staff was okay, but they seemed a bit rushed.",20240222
+67,39,2,The restaurant failed to meet even basic expectations.,20241019
+17,57,5,"It was fine, but I’ve had better elsewhere.",20230622
+39,68,3,The staff was unprofessional and unwelcoming.,20221201
+38,64,1,The service was chaotic and disorganized.,20221212
+79,79,5,"It was fine, but it could have been more tender.",20220310
+48,18,8,The presentation of the dish was stunning.,20240125
+51,16,3,The service was chaotic and disorganized.,20230411
+77,92,7,"It were fine, but they took too long to arrive.",20220110
+16,84,10,The presentation of the dish was stunning.,20240306
+64,16,5,"It was fine, but I’ve had better elsewhere.",20220627
+59,2,9,The staff was polite and made us feel welcome.,20240307
+62,91,8,"The service was excellent, and the staff was very friendly.",20240506
+1,59,2,The restaurant failed to meet even basic expectations.,20230819
+36,15,6,"It was decent, but nothing extraordinary.",20220222
+71,5,2,The restaurant had a limited and uninspired menu.,20240807
+53,54,4,It was poorly plated and unappetizing.,20220921
+80,57,4,Its platter was disappointing and lacked creativity.,20240625
+79,5,9,It was absolutely delicious and full of flavor!,20231017
+38,11,9,The ambiance was perfect for a romantic dinner.,20240715
+39,49,8,The ambiance of the restaurant was cozy and inviting.,20241227
+42,91,7,"It was served warm, but not hot.",20221123
+52,41,2,It was too greasy and heavy.,20230919
+62,17,1,It was bland and lacked flavor.,20230102
+73,75,9,The restaurant had a great vibe and atmosphere.,20240614
+60,75,9,It were served at the perfect temperature.,20220512
+10,18,5,"It were okay, but not very creative.",20220828
+80,37,10,The ambiance was perfect for a romantic dinner.,20240613
+84,63,5,"The staff was polite, but not very attentive.",20230101
+76,45,8,It were creative and expertly crafted.,20220305
+25,64,4,It was tough and hard to chew.,20240927
+42,31,2,It was overly sweet and artificial-tasting.,20220313
+52,73,8,It was absolutely delicious and full of flavor!,20221011
+57,66,6,"It was fine, but I’ve had better elsewhere.",20240421
+34,75,9,"It was warm and comforting, just what I needed.",20230301
+55,59,7,"It was okay, but it didn’t leave a lasting impression.",20241015
+40,75,6,"The coffee was okay, but not as strong as I like it.",20230223
+71,86,1,The service was inattentive and frustrating.,20221217
+84,28,7,"It was fine, but it could have been more tender.",20230705
+28,82,4,The restaurant was cramped and uncomfortable.,20240501
+33,21,6,"The chef did a decent job, but the dishes lacked creativity.",20240118
+52,84,1,It was poorly plated and unappetizing.,20231227
+44,4,2,It was tough and hard to chew.,20240122
+72,49,9,The service was quick and efficient.,20220815
+39,51,8,It were served at the perfect temperature.,20220818
+26,63,7,"The staff was okay, but they seemed a bit rushed.",20240509
+41,65,3,It were poorly made and tasted bad.,20231125
+22,73,1,The restaurant was cramped and uncomfortable.,20230721
+18,87,10,The menu had a great variety of options to choose from.,20220701
+65,29,5,"The chef did a decent job, but the dishes lacked creativity.",20240804
+6,12,1,It was bland and lacked flavor.,20240606
+73,18,9,"The service was excellent, and the staff was very friendly.",20230105
+54,73,4,The ambiance was ruined by loud noise and poor lighting.,20240616
+69,100,5,"It was fine, but it could have been more tender.",20230630
+27,43,10,The staff was knowledgeable about the menu and made great recommendations.,20230917
+79,99,10,The service was attentive without being intrusive.,20220713
+63,70,9,The restaurant was clean and well-maintained.,20240323
+68,1,7,"The service was okay, but it could have been faster.",20231021
+43,27,8,It was fresh and beautifully presented.,20230526
+15,57,5,"The chef did a decent job, but the dishes lacked creativity.",20230505
+39,46,7,"The service was okay, but it could have been faster.",20240218
+6,49,3,Its platter was disappointing and lacked creativity.,20230510
+20,24,1,The restaurant had a limited and uninspired menu.,20241008
+4,21,4,It was cold and unappetizing.,20230420
+55,80,6,"It was fine, but it wasn’t very fresh.",20220104
+16,81,2,It was overpriced and not worth the money.,20220721
+59,3,10,It was juicy and packed with flavor.,20221110
+44,85,3,It was poorly plated and unappetizing.,20220709
+29,65,3,It was overpriced and not worth the money.,20220530
+67,20,5,"The service was fine, but it wasn’t very memorable.",20230218
+73,63,4,It was a complete letdown and not enjoyable.,20241031
+5,47,8,"It was worth every penny, great value for money.",20221118
+55,93,10,The service was attentive without being intrusive.,20230205
+10,61,8,It was the best thing I’ve had in a long time.,20220609
+37,92,6,"The flavors were fine, but they didn’t feel authentic.",20240803
+12,67,9,The restaurant was clean and well-maintained.,20220204
+53,43,8,The ambiance of the restaurant was cozy and inviting.,20241206
+65,5,7,"The appetizers were fine, but they were a bit bland.",20220330
+49,63,1,The service was inattentive and frustrating.,20220627
+68,72,1,The restaurant was dirty and poorly maintained.,20230912
+28,39,2,The staff was unhelpful and seemed annoyed.,20221208
+76,86,3,It tasted off and wasn’t fresh.,20230301
+40,25,10,The service was quick and efficient.,20220127
+30,46,9,It was flavorful and left me wanting more.,20240603
+9,19,3,The flavors were unbalanced and unpleasant.,20220325
+78,59,4,It were watered down and disappointing.,20240729
+57,89,4,It was wilted and unappealing.,20220819
+69,29,4,It were watered down and disappointing.,20220203
+28,70,4,The service was slow and unprofessional.,20220111
+44,96,2,The service was inattentive and frustrating.,20230302
+28,91,7,"The flavors were okay, but they didn’t wow me.",20230724
+43,71,1,It was overpriced and not worth the money.,20230516
+18,28,4,It was poorly plated and unappetizing.,20240817
+33,93,8,It was absolutely delicious and full of flavor!,20220811
+50,24,8,"It was worth every penny, great value for money.",20240728
+67,55,7,"The ambiance was nice, but the music was a bit loud.",20230516
+77,43,9,It were served at the perfect temperature.,20220213
+49,60,5,"The service was okay, but it could have been faster.",20240416
+8,44,3,It was overpriced and not worth the money.,20240223
+46,81,6,"It was decent, but nothing extraordinary.",20240831
+11,22,9,The ingredients tasted fresh and high-quality.,20220418
+82,99,9,"The service was excellent, and the staff was very friendly.",20220818
+38,71,1,It was tough and hard to chew.,20230719
+63,32,7,"It was served warm, but not hot.",20220309
+15,79,6,"The flavors were okay, but they didn’t wow me.",20220716
+71,36,6,"It was good, but slightly overcooked.",20240816
+19,97,6,"The staff was okay, but they seemed a bit rushed.",20230311
+1,67,4,It was overpriced and not worth the money.,20230518
+26,13,7,"The service was okay, but it could have been faster.",20230530
+57,12,8,It was flavorful and left me wanting more.,20221008
+1,11,10,The service was attentive without being intrusive.,20221125
+76,79,4,The restaurant was dirty and poorly maintained.,20220126
+1,72,2,It were watered down and disappointing.,20230723
+43,24,10,It was fresh and beautifully presented.,20240716
+25,4,9,"It was warm and comforting, just what I needed.",20241226
+54,51,3,The flavors were unbalanced and unpleasant.,20220207
+69,66,2,It was overpriced and not worth the money.,20230514
+36,5,3,The staff was unhelpful and seemed annoyed.,20240905
+21,34,4,The restaurant was cramped and uncomfortable.,20230911
+48,26,1,It tasted off and wasn’t fresh.,20241111
+73,37,10,The staff went above and beyond to make our experience special.,20220718
+43,33,4,It was a complete letdown and not enjoyable.,20240108
+82,3,6,"It was cooked well, but it lacked seasoning.",20220215
+7,97,2,It was a complete letdown and not enjoyable.,20230720
+41,89,5,"The staff was okay, but they seemed a bit rushed.",20230625
+68,87,8,It was heavenly and melted in my mouth.,20231001
+4,72,3,It was overpriced and not worth the money.,20220818
+72,98,6,"The ambiance was fine, but it felt a bit generic.",20221204
+44,17,5,"It was cooked well, but it lacked seasoning.",20230817
+65,60,4,The ambiance was ruined by loud noise and poor lighting.,20220509
+21,86,9,It was heavenly and melted in my mouth.,20240127
+21,82,4,The service was inattentive and frustrating.,20221201
+23,54,6,"The restaurant was clean, but the decor was outdated.",20220914
+41,78,10,The staff went above and beyond to make our experience special.,20231021
+24,14,3,It was cold and unappetizing.,20220917
+70,69,10,It was flavorful and left me wanting more.,20230715
+27,96,8,It was fresh and beautifully presented.,20230319
+47,17,1,It was bland and lacked flavor.,20240305
+56,88,2,It was bland and lacked flavor.,20230901
+71,87,3,Its platter was disappointing and lacked creativity.,20230821
+19,87,6,"The service was okay, but it could have been faster.",20240515
+48,60,7,"It was okay, but it didn’t leave a lasting impression.",20221024
+72,46,5,"The ambiance was fine, but it felt a bit generic.",20231218
+13,6,7,"The flavors were fine, but they didn’t feel authentic.",20221227
+20,77,6,"It were okay, but not very creative.",20230519
+13,51,5,"It was okay, but it didn’t leave a lasting impression.",20240130
+82,21,5,"The appetizers were fine, but they were a bit bland.",20220913
+71,51,7,"The service was fine, but it wasn’t very memorable.",20220112
+77,40,7,"It were fine, but they took too long to arrive.",20241130
+72,61,7,"It was decent, but nothing extraordinary.",20240421
+52,69,1,The staff was rude and inattentive.,20220127
+42,42,10,The service was quick and efficient.,20230406
+1,99,9,The presentation of the dish was stunning.,20240814
+6,50,1,The service was chaotic and disorganized.,20240809
+82,85,6,"It was served on time, but the presentation was lacking.",20240802
+84,29,2,It was wilted and unappealing.,20240529
+55,96,7,"It was fine, but the dressing was too heavy.",20241003
+72,57,4,The flavors were unbalanced and unpleasant.,20240925
+82,75,10,The staff went above and beyond to make our experience special.,20230317
+11,79,3,The chef didn’t seem to put much effort into the dishes.,20240504
+40,56,9,The menu had a great variety of options to choose from.,20221108
+19,38,8,It was heavenly and melted in my mouth.,20240305
+18,98,1,The service was inattentive and frustrating.,20231019
+40,59,8,The restaurant had a great vibe and atmosphere.,20230410
+40,12,3,It were served at the wrong temperature.,20220116
+44,1,10,The presentation of the dish was stunning.,20230516
+28,96,6,"It was good, but it felt a bit overpriced.",20241212
+14,76,9,The flavors were authentic and reminded me of home.,20240906
+29,83,2,The restaurant was cramped and uncomfortable.,20221210
+24,82,7,"The service was okay, but it could have been faster.",20230902
+67,88,5,"It was okay, but it didn’t leave a lasting impression.",20240202
+42,49,6,"The staff was polite, but not very attentive.",20240919
+55,58,5,"The staff was okay, but they seemed a bit rushed.",20240331
+65,82,3,The ambiance was ruined by loud noise and poor lighting.,20230314
+57,48,7,"The flavors were okay, but they didn’t wow me.",20230331
+17,100,10,The presentation of the dish was stunning.,20240324
+24,71,6,"It was cooked well, but it lacked seasoning.",20220825
+2,48,3,The restaurant had a limited and uninspired menu.,20240325
+57,10,7,"The restaurant had a decent menu, but it wasn’t very unique.",20240610
+31,16,3,The service was slow and unprofessional.,20240121
+35,92,9,It was heavenly and melted in my mouth.,20231006
+25,27,4,It was forgettable and not worth recommending.,20241031
+8,19,1,The restaurant was dirty and poorly maintained.,20230519
+34,67,2,It was cold and unappetizing.,20240404
+49,43,3,It took too long to arrive and wasn’t worth the wait.,20240810
+60,60,4,It was poorly plated and unappetizing.,20220812
+70,92,1,The service was inattentive and frustrating.,20231209
+81,73,3,The restaurant was cramped and uncomfortable.,20230621
+27,67,8,The ambiance of the restaurant was cozy and inviting.,20220615
+34,16,7,"The staff was okay, but they seemed a bit rushed.",20230513
+60,68,1,It was a complete letdown and not enjoyable.,20230425
+35,54,10,"It was rich and aromatic, just perfect.",20231210
+68,67,2,The chef didn’t seem to put much effort into the dishes.,20240215
+79,5,3,The chef didn’t seem to put much effort into the dishes.,20240108
+48,12,7,"The menu had a decent variety, but nothing stood out.",20240606
+63,4,10,The service was attentive without being intrusive.,20240428
+36,53,2,It was undercooked and unsafe to have.,20220626
+33,33,4,It was overcooked and mushy.,20220902
+51,90,8,It was served hot and on time.,20221107
+68,85,3,It was overly sweet and artificial-tasting.,20240829
+58,36,9,The portion sizes were generous and satisfying.,20230630
+21,68,8,The portion sizes were generous and satisfying.,20230625
+13,42,2,It was cold and unappetizing.,20240209
+62,25,4,It were watered down and disappointing.,20240123
+47,43,8,The menu had a great variety of options to choose from.,20240610
+56,44,10,The portion sizes were generous and satisfying.,20230402
+46,54,6,"The appetizers were fine, but they were a bit bland.",20220825
+40,38,6,"The coffee was okay, but not as strong as I like it.",20240606
+32,65,1,It was a complete letdown and not enjoyable.,20240829
+48,84,10,"The service was excellent, and the staff was very friendly.",20220107
+46,88,9,The flavors were well-balanced and complemented each other.,20220725
+37,83,6,"It were okay, but not very creative.",20220628
+29,37,4,The staff was unprofessional and unwelcoming.,20240101
+63,42,3,It was wilted and unappealing.,20240227
+35,23,9,The service was quick and efficient.,20230705
+60,94,9,It was the best thing I’ve had in a long time.,20240808
+60,34,9,The flavors were well-balanced and complemented each other.,20221009
+22,93,9,The restaurant was clean and well-maintained.,20230515
+74,84,2,It was poorly plated and unappetizing.,20220618
+79,77,3,The service was chaotic and disorganized.,20221019
+37,50,8,It was heavenly and melted in my mouth.,20230219
+57,26,10,It were refreshing and perfectly balanced.,20241111
+81,16,8,"It was cooked to perfection, al dente!",20230731
+60,94,7,"The menu had a decent variety, but nothing stood out.",20220702
+30,47,1,The staff was unprofessional and unwelcoming.,20220208
+51,26,6,"It was fine, but I’ve had better elsewhere.",20240117
+3,94,5,"It was okay, but it didn’t leave a lasting impression.",20220610
+54,86,3,The staff was unhelpful and seemed annoyed.,20240604
+5,23,4,The restaurant had a limited and uninspired menu.,20220416
+27,4,9,The portion sizes were generous and satisfying.,20241128
+45,15,2,It was too greasy and heavy.,20231121
+68,52,7,"The flavors were okay, but they didn’t wow me.",20230614
+73,35,9,The ambiance was perfect for a romantic dinner.,20220919
+43,60,1,It was overly sweet and artificial-tasting.,20240222
+74,10,4,It was cold and unappetizing.,20221017
+77,25,9,"The service was excellent, and the staff was very friendly.",20230805
+54,91,6,"The ambiance was fine, but it felt a bit generic.",20220812
+22,51,5,"The restaurant had a decent menu, but it wasn’t very unique.",20220216
+16,100,1,It was too greasy and heavy.,20220802
+68,50,7,"The appetizers were fine, but they were a bit bland.",20231019
+78,52,6,"It was fine, but it could have been more tender.",20220109
+73,68,1,The staff was unprofessional and unwelcoming.,20240813
+47,66,4,The staff was unprofessional and unwelcoming.,20230820
+8,92,3,The staff was rude and inattentive.,20240520
+30,23,1,It was poorly plated and unappetizing.,20231118
+42,42,10,It were refreshing and perfectly balanced.,20220329
+12,92,10,It were served at the perfect temperature.,20241218
+73,2,7,"The service was fine, but it wasn’t very memorable.",20241106
+28,91,8,"It was worth every penny, great value for money.",20230325
+30,68,9,The flavors were well-balanced and complemented each other.,20240122
+10,89,8,It was heavenly and melted in my mouth.,20220624
+25,61,1,It was tough and hard to chew.,20231001
+29,61,5,"The menu had a decent variety, but nothing stood out.",20220616
+77,61,4,It were poorly made and tasted bad.,20220522
+80,25,9,It was fresh and beautifully presented.,20220727
+63,85,2,The staff was unprofessional and unwelcoming.,20240829
+20,52,10,It was heavenly and melted in my mouth.,20221128
+24,80,10,The staff went above and beyond to make our experience special.,20230129
+31,53,7,"It were fine, but they took too long to arrive.",20220627
+76,51,9,The ingredients tasted fresh and high-quality.,20221107
+15,85,8,It was served hot and on time.,20241019
+64,35,8,"It was warm and comforting, just what I needed.",20240202
+68,92,1,It was cold and unappetizing.,20240808
+5,96,4,It tasted off and wasn’t fresh.,20220602
+21,60,3,The staff was unprofessional and unwelcoming.,20240428
+10,63,2,It tasted off and wasn’t fresh.,20241123
+37,62,7,"The restaurant had a decent menu, but it wasn’t very unique.",20220117
+28,18,9,The service was attentive without being intrusive.,20230711
+4,24,9,The staff was knowledgeable about the menu and made great recommendations.,20220323
+51,46,10,It was served hot and on time.,20230523
+76,28,10,The restaurant was clean and well-maintained.,20220511
+13,55,1,The service was inattentive and frustrating.,20220822
+66,88,1,It was overly sweet and artificial-tasting.,20230602
+32,48,7,"It was served on time, but the presentation was lacking.",20240421
+29,23,10,The ambiance of the restaurant was cozy and inviting.,20221125
+45,38,2,The restaurant was cramped and uncomfortable.,20231119
+49,83,9,It was flavorful and left me wanting more.,20221217
+29,23,10,It was served hot and on time.,20240829
+28,70,2,It took too long to arrive and wasn’t worth the wait.,20220925
+82,76,4,The service was slow and unprofessional.,20240215
+66,44,7,"It was fine, but it could have been more tender.",20240317
+3,32,1,The staff was unprofessional and unwelcoming.,20220825
+64,6,6,"It was served on time, but the presentation was lacking.",20240408
+5,35,1,It were served at the wrong temperature.,20230506
+51,83,3,The staff was unprofessional and unwelcoming.,20240105
+20,68,10,"It was warm and comforting, just what I needed.",20220311
+47,20,6,"The appetizers were fine, but they were a bit bland.",20220521
+73,15,1,The service was slow and unprofessional.,20241123
+84,56,9,The restaurant was clean and well-maintained.,20221102
+59,7,3,It were served at the wrong temperature.,20240711
+45,66,9,The staff was knowledgeable about the menu and made great recommendations.,20230501
+67,4,2,The staff was rude and inattentive.,20220930
+18,67,4,It was too greasy and heavy.,20220608
+84,19,8,It was creamy and had a rich flavor.,20220830
+72,21,3,It was a complete letdown and not enjoyable.,20220305
+75,12,9,The ambiance was perfect for a romantic dinner.,20230904
+47,44,6,"The staff was polite, but not very attentive.",20231206
+68,38,4,It was too greasy and heavy.,20241020
+49,87,4,The service was slow and unprofessional.,20220725
+46,14,2,The staff was unprofessional and unwelcoming.,20220124
+33,74,8,The staff was polite and made us feel welcome.,20241225
+68,9,7,"The staff was polite, but not very attentive.",20241113
+40,13,10,The flavors were authentic and reminded me of home.,20220607
+36,100,2,The chef didn’t seem to put much effort into the dishes.,20230417
+30,88,7,"The menu had a decent variety, but nothing stood out.",20230104
+70,31,5,"The service was okay, but it could have been faster.",20231019
+19,75,1,It was wilted and unappealing.,20240621
+24,82,6,"It was fine, but I’ve had better elsewhere.",20230618
+52,87,7,"It was fine, but I’ve had better elsewhere.",20220309
+83,63,9,It was tender and cooked exactly as requested.,20230520

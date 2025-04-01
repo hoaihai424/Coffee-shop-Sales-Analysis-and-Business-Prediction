@@ -1,0 +1,85 @@
+product_id,product_category,product_type,product_name,product_description,rating,unit_price,image,discount,state
+1,Coffee beans,Organic Beans,Brazilian - Organic,It's like Carnival in a cup. Clean and smooth.,7.6,14.4,,0,available
+2,Coffee beans,House blend Beans,Our Old Time Diner Blend,Out packed blend of beans that is reminiscent of the cup of coffee you used to get at a diner.,7.4,14.4,,0,available
+3,Coffee beans,Espresso Beans,Espresso Roast,Our house blend for a good espresso shot.,7.5,11.8,,0,available
+4,Coffee beans,Espresso Beans,Primo Espresso Roast,Our primium single source of hand roasted beans.,7.4,16.36,,0,available
+5,Coffee beans,Gourmet Beans,Columbian Medium Roast,A smooth cup of coffee any time of day.,7.7,12.0,,0,available
+6,Coffee beans,Gourmet Beans,Ethiopia,From the home of coffee.,7.4,16.8,,0,available
+7,Coffee beans,Premium Beans,Jamacian Coffee River,"Ya man, it will start your day off right. ",7.6,15.8,,0,available
+8,Coffee beans,Premium Beans,Civet Cat,"The most expensive coffee in the world, the cats do all the work. ",7.3,36.0,,0,available
+9,Coffee beans,Organic Beans,Organic Decaf Blend,Our blend of hand picked organic beans that have been naturally decaffinated.,7.5,18.0,,0,available
+10,Coffee beans,Green beans,Guatemalan Sustainably Grown,Green beans you can roast yourself.,7.4,8.0,,0,available
+11,Loose Tea,Herbal tea,Lemon Grass,You will think you are Thailand as you sip your cuppa.,7.6,7.16,,0,available
+12,Loose Tea,Herbal tea,Peppermint,Cool and refreshing to help calm your nerves.,7.5,7.16,,0,available
+13,Loose Tea,Black tea,English Breakfast,The traditional cup to start your day.,7.5,7.16,,0,available
+14,Loose Tea,Black tea,Earl Grey,A full leaf of Orange Pekoe blended with organic oil of bergamot.,7.6,7.16,,0,available
+15,Loose Tea,Green tea,Serenity Green Tea,Mountain grown and harvested at the optimal time.,7.3,7.4,,0,available
+16,Loose Tea,Chai tea,Traditional Blend Chai,A traditional blend.,7.7,7.16,,0,available
+17,Loose Tea,Chai tea,Morning Sunrise Chai,Fair trade and organic and has a warm finish.,7.7,7.6,,0,available
+18,Loose Tea,Chai tea,Spicy Eye Opener Chai,A spicier blend to awaken your taste buds.,7.7,8.76,,0,available
+19,Packaged Chocolate,Drinking Chocolate,Dark chocolate,This drinking chocolate is smooth and creamy.,7.5,5.12,,0,available
+20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,Certified organic containing the highest quality ingredients.,7.6,6.08,,0,available
+21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,"Fragrant with spices, this is the most flavourful drinking chocolate you will find.",7.4,10.66,,0,available
+22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,An honest cup a coffee.,7.7,0.4,,0,available
+23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,An honest cup a coffee.,7.4,0.5,,0,available
+24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,An honest cup a coffee.,7.5,0.6,,0,available
+25,Coffee,Organic brewed coffee,Brazilian Sm,It's like Carnival in a cup. Clean and smooth.,7.2,0.44,,0,available
+26,Coffee,Organic brewed coffee,Brazilian Rg,It's like Carnival in a cup. Clean and smooth.,7.4,0.6,,0,available
+27,Coffee,Organic brewed coffee,Brazilian Lg,It's like Carnival in a cup. Clean and smooth.,7.7,0.7,,0,available
+28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,A smooth cup of coffee any time of day.,7.5,0.4,,0,available
+29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,A smooth cup of coffee any time of day.,7.6,0.5,,0,available
+30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,A smooth cup of coffee any time of day.,7.4,0.6,,0,available
+31,Coffee,Gourmet brewed coffee,Ethiopia Sm,A bold cup when you want that something extra.,7.3,0.44,,0,available
+32,Coffee,Gourmet brewed coffee,Ethiopia Rg,A bold cup when you want that something extra.,7.4,0.6,,0,available
+33,Coffee,Gourmet brewed coffee,Ethiopia Lg,A bold cup when you want that something extra.,7.3,0.7,,0,available
+34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,Still a front runner for good premium coffee.,7.4,0.49,,0,available
+35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,Still a front runner for good premium coffee.,7.8,0.62,,0,available
+36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,Still a front runner for good premium coffee.,7.5,0.75,,0,available
+37,Coffee,Barista Espresso,Espresso shot,You will think you are in Venice when you sip this one.,7.5,0.6,,0,available
+38,Coffee,Barista Espresso,Latte,You will think you are in Venice when you sip this one.,7.7,0.75,,0,available
+39,Coffee,Barista Espresso,Latte Rg,You will think you are in Venice when you sip this one.,7.5,0.85,,0,available
+40,Coffee,Barista Espresso,Cappuccino,You will think you are in Venice when you sip this one.,7.3,0.75,,0,available
+41,Coffee,Barista Espresso,Cappuccino Lg,You will think you are in Venice when you sip this one.,7.7,0.85,,0,available
+42,Tea,Brewed herbal tea,Lemon Grass Rg,You will think you are in Thailand.,7.7,0.63,,0,available
+43,Tea,Brewed herbal tea,Lemon Grass Lg,You will think you are in Thailand.,7.4,0.75,,0,available
+44,Tea,Brewed herbal tea,Peppermint Rg,A cool and refreshing cup.,7.5,0.63,,0,available
+45,Tea,Brewed herbal tea,Peppermint Lg,A cool and refreshing cup.,7.5,0.75,,0,available
+46,Tea,Brewed Green tea,Serenity Green Tea Rg,Feel the stress leaving your body.,7.6,0.63,,0,available
+47,Tea,Brewed Green tea,Serenity Green Tea Lg,Feel the stress leaving your body.,7.2,0.75,,0,available
+48,Tea,Brewed Black tea,English Breakfast Rg,The Queen's favourite cuppa in the morning.,7.4,0.63,,0,available
+49,Tea,Brewed Black tea,English Breakfast Lg,The Queen's favourite cuppa in the morning.,7.6,0.75,,0,available
+50,Tea,Brewed Black tea,Earl Grey Rg,Tradition in a cup.,7.5,0.63,,0,available
+51,Tea,Brewed Black tea,Earl Grey Lg,Tradition in a cup.,7.2,0.75,,0,available
+52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,Sit back and think of the tropical breezes.,7.2,0.63,,0,available
+53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,Sit back and think of the tropical breezes.,7.5,0.75,,0,available
+54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,Face the morning after your yoga routine.,7.7,0.63,,0,available
+55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,Face the morning after your yoga routine.,7.5,1.0,,0,available
+56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,When you need your eyes opened wide.,7.5,0.64,,0,available
+57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,When you need your eyes opened wide.,7.5,0.78,,0,available
+58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,"Slightly bitter, but still very rich. ",7.4,2.63,,0,available
+59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,"Slightly bitter, but still very rich. ",7.5,3.38,,0,available
+60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,Just pure notes of spice.,7.6,2.81,,0,available
+61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,Just pure notes of spice.,7.5,3.56,,0,available
+62,Drinking Chocolate,Hot chocolate,Snow Day Hot Chocolate,Added marshmallows for the needed sugar rush.,7.7,2.25,,0,available
+63,Flavours,Regular syrup,Carmel syrup,Rich carmel taste,7.7,0.04,,0,available
+64,Flavours,Regular syrup,Hazelnut syrup,Bursting with nutty flavour,7.1,0.04,,0,available
+65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,Our favorite,7.5,0.04,,0,available
+66,Coffee,Seasonal drink,Pumpkin Spice Latte,"Boo, its that time of year again",7.6,0.99,,0,available
+67,Coffee,Seasonal drink,Pumpkin Spice Latte Lg,"Boo, its that time of year again",7.4,1.19,,0,available
+68,Drinking Chocolate,Seasonal drink,Happy Holidays hot chocolate,"Candy cane and hot chocolate, perfect.",7.6,2.81,,0,available
+69,Bakery,Pastry,Croissant,Flakey and buttery,7.2,2.11,,0,available
+70,Bakery,Scone,Cranberry Scone,Like Grandma used to make,7.6,2.11,,0,available
+71,Bakery,Pastry,Chocolate Croissant,Chocolate flakes,7.3,2.44,,0,available
+72,Bakery,Scone,Ginger Scone,Little bit of spice,7.6,2.11,,0,available
+73,Bakery,Pastry,Almond Croissant,Crunch!,7.6,2.44,,0,available
+74,Bakery,Biscotti,Ginger Biscotti,Crunch!,7.6,2.28,,0,available
+75,Bakery,Biscotti,Hazelnut Biscotti,Crunch!,7.7,2.28,,0,available
+76,Bakery,Biscotti,Chocolate Chip Biscotti,Crunch!,7.5,2.28,,0,available
+77,Bakery,Scone,Oatmeal Scone,Grannys fav,7.5,1.95,,0,available
+78,Bakery,Scone,Scottish Cream Scone,Old time comfort,7.8,2.93,,0,available
+79,Bakery,Scone,Jumbo Savory Scone,"Anytime, anywhere",7.3,2.44,,0,available
+80,Flavours,Regular syrup,Chocolate syrup,Bursting with chocolate flavour,7.5,0.04,,0,available
+81,Coffee,Specialty coffee,Rio Nights,2 shots of Ouro Brasilerio and pure cane sugar syrup,7.3,1.2,,0,available
+82,Coffee,Barista Espresso,Ouro Brasileiro shot,From Rio,7.4,0.6,,0,available
+83,Coffee,Barista Espresso,Ouro Brasileiro shot promo,Ouro promo,7.5,0.42,,0,available
+84,Bakery,Scone,Ginger Scone promo,Little bit of spice,7.6,1.72,,0,available
