@@ -8,7 +8,7 @@ from datetime import datetime, time
 load_dotenv()
 fake = Faker()
 
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+GOOGLE_API_KEY = os.getenv('GOOGLE_CALENDAR_API_KEY')
 
 # order: oderId, customerId, orderDate, orderTime, total_quantity, total_price, employeeId
 def gen_order_data(num_orders, customerList, date_list, employeeList):
@@ -231,32 +231,42 @@ def gen_review(num_reviews, num_customers, product_df, date_df):
     return df
 
 # gift_exchange: giftId, customerId, date, quantity
-def gen_gift_exchange(num_gift_exchanges, customer_df, date_list, gift_df):
+def gen_gift_exchange(num_gift_exchanges, customer_df, date_df, gift_df):
     gift_list = []
-    customerId = []
-    date = []
-    quantity = []
+    customer_list = []
+    date_list = []
+    quantity_list = []
 
     for i in range(num_gift_exchanges):
         giftId = random.randint(1, len(gift_df))
         quantity = random.randint(1, 3)
-        gift_list.append(giftId)
-        quantity.append(quantity)
         customerId = random.randint(1, len(customer_df))
         cnt = 0
+
+        # Ensure the customer has enough points
         while customer_df.loc[customerId - 1, 'remaining_point'] < giftId * 10 * quantity and cnt < 10:
             cnt += 1
             customerId = random.randint(1, len(customer_df))
-        if cnt == 10: continue
-        customerId.append(customerId)
-        date.append(random.choice(date_list))
+        
+        if cnt == 10:
+            # Skip this gift exchange if the customer doesn't have enough points
+            continue
+
+        # Append to all lists
+        gift_list.append(giftId)
+        quantity_list.append(quantity)
+        customer_list.append(customerId)
+        date_list.append(random.choice(date_df['dateID'].tolist()))
+
+        # Deduct points from the customer
         customer_df.loc[customerId - 1, 'remaining_point'] -= giftId * 10 * quantity
 
+    # Create the DataFrame
     df = pd.DataFrame({
         'giftId': gift_list,
-        'customerId': customerId,
-        'date': date,
-        'quantity': quantity
+        'customerId': customer_list,
+        'date': date_list,
+        'quantity': quantity_list
     })
 
     return df
@@ -287,7 +297,7 @@ def gen_gift(num_gifts):
         'point': gift_point
     })
 
-    gift_df.to_csv('gift.csv', index=False)
+    return gift_df
     
 # customer: customerId, name, phone_number, address, DOB, customer_since, gender, point
 def gen_fake_phone_number():
@@ -350,7 +360,7 @@ def convert_date(year, month, day):
 def get_holidays():
     url = "https://www.googleapis.com/calendar/v3/calendars/en.vietnamese%23holiday@group.v.calendar.google.com/events"
     params = {
-                "key": GOOGLE_CALENDAR_API_KEY,
+                "key": GOOGLE_API_KEY,
                 "timeMin" : "2022-01-01T00:00:00Z",
                 "timeMax" : "2025-01-01T23:59:59Z",
                 "singleEvents" : True,
@@ -466,7 +476,7 @@ def gen_product():
     name = product_df['product_name'].tolist()
     category = product_df['product_category'].tolist()
     description = product_df['product_description'].tolist()
-    unit_price = product_df['product_price'].tolist()
+    unit_price = product_df['unit_price'].tolist()
     state = product_df['state'].tolist()
     rating = [0] * len(product_df)
 
@@ -481,3 +491,40 @@ def gen_product():
     })
 
     return df
+
+if __name__ == "__main__":
+    # Set random seed for reproducibility
+    random.seed(42)
+
+    # Generate data
+    num_orders = 1000
+    num_customers = 100
+    num_departments = 3
+    num_gift_exchanges = 10
+    num_reviews = 100
+
+    customer_df = gen_customer(num_customers)
+    date_df = gen_date()
+    product_df = gen_product()
+    department_df = gen_department(num_departments)
+    employee_df = gen_employee(num_departments)
+    
+    order_df = gen_order_data(num_orders, customer_df, date_df['dateID'].tolist(), employee_df['employeeId'].tolist())
+    order_item_df = gen_order_item(order_df, product_df, customer_df)
+    review_df = gen_review(num_reviews, num_customers, product_df, date_df)
+    
+    gift_df = gen_gift(30)
+    gift_exchange_df = gen_gift_exchange(num_gift_exchanges, customer_df, date_df, gift_df)
+
+    # Save data to CSV files
+    customer_df.to_csv('dataset/customer.csv', index=False)
+    date_df.to_csv('dataset/date.csv', index=False)
+    product_df.to_csv('dataset/product.csv', index=False)
+    department_df.to_csv('dataset/department.csv', index=False)
+    employee_df.to_csv('dataset/employee.csv', index=False)
+    order_df.to_csv('dataset/order.csv', index=False)
+    order_item_df.to_csv('dataset/order_item.csv', index=False)
+    review_df.to_csv('dataset/review.csv', index=False)
+    gift_exchange_df.to_csv('dataset/gift_exchange.csv', index=False)
+    gift_df.to_csv('dataset/gift.csv', index=False)
+    print("Data generation completed.")

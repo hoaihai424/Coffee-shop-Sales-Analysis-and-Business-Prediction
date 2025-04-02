@@ -1,0 +1,202 @@
+customerId,name,phone_number,address,DOB,customer_since,gender,point,remaining_point
+0,Take away customer,000-0000-000,,,,,0,65
+1,Cheryl Morris,654-1824-025,"USS Brown
+FPO AE 15130",1964-05-22,2024-06-08,F,0,93
+2,Jacob White,759-4506-250,"422 Kevin Trail
+New Joshua, AL 04133",2003-07-16,2022-03-13,F,0,46
+3,Ashley Lee,228-2286-754,"2804 Ware Lane Suite 717
+Bowmanbury, KY 89972",1973-08-08,2022-06-05,F,0,77
+4,Lisa Lewis,104-8935-089,"PSC 2514, Box 5931
+APO AP 09371",1975-06-29,2024-05-12,F,0,23
+5,Keith Flores,604-6912-032,"34232 Travis Springs Suite 970
+West Joshua, WA 62218",1946-09-05,2022-01-13,F,0,95
+6,Tiffany Parker,030-1535-223,"Unit 8191 Box 9290
+DPO AE 49124",1959-02-18,2025-01-23,M,0,112
+7,Nicole Ford,238-8279-616,"2372 Yolanda Center Suite 912
+West Andrewburgh, NH 41326",1982-10-07,2022-11-25,M,0,81
+8,Gregory Ellison,027-9195-203,"78630 Morrison Way
+Rodrigueztown, OH 98138",1958-08-13,2020-04-12,M,0,87
+9,Tom Anderson,733-8928-429,"047 Smith Streets Apt. 433
+Lake Kristinechester, NV 55298",1949-05-02,2020-12-29,F,0,69
+10,Raymond Wilson,225-7359-603,"14907 Dawn Springs
+Barryview, IL 39757",1954-07-11,2022-07-12,F,0,128
+11,Edward Boyd,284-0106-777,"Unit 0377 Box 0094
+DPO AP 98385",1976-10-25,2024-07-08,M,0,146
+12,Jordan Conley,825-2615-714,"78880 Amy Garden
+Cunninghammouth, MD 62277",1999-01-25,2024-07-27,M,0,148
+13,Tina Taylor,432-5574-284,"91190 Miller Mountain Suite 363
+New Jeffreyton, WI 95141",1977-06-09,2021-01-06,M,0,74
+14,Alexis White,159-3527-980,"9281 Ashley Square Apt. 675
+Lake Michaelfort, OH 52384",2003-09-30,2020-08-19,M,0,142
+15,Alexander Wright,781-5514-104,"7224 Danielle Lane
+Debraville, MO 98982",1960-10-18,2024-09-11,F,0,105
+16,Paul Gonzales,094-6224-099,"379 William Locks Apt. 444
+Lowefurt, IA 65596",1984-01-20,2023-08-26,M,0,197
+17,Connie Grimes,367-5635-618,"6876 Rebecca Landing Apt. 432
+South James, OH 27545",1972-05-27,2021-05-25,F,0,60
+18,Steven Clark,270-0711-747,"25701 Chad Ports
+Lake Pamela, MD 87075",1978-02-08,2022-09-02,M,0,100
+19,Laura Gomez,470-8785-127,"14680 Good Freeway
+North Kathytown, OK 73349",1974-01-17,2023-12-14,F,0,102
+20,Lisa Pena,996-6201-080,"USNS Lucas
+FPO AE 95471",1982-11-30,2023-08-04,F,0,56
+21,Nicole Whitney,565-4803-849,"380 Megan Prairie
+Lake Gina, VT 33646",1997-05-18,2024-01-13,M,0,83
+22,Mrs. Michelle Davis,643-5925-591,"62928 Duran Creek Apt. 617
+West Valeriefurt, VA 57429",1991-07-26,2020-07-07,M,0,125
+23,Gina Erickson,196-1139-046,"8089 Ortega Unions Apt. 467
+North Michaelhaven, LA 47278",1956-06-26,2022-10-08,F,0,40
+24,Alyssa Rodriguez,677-3733-791,"857 Louis Turnpike Apt. 701
+North Charleneville, GU 19746",1993-09-19,2022-03-13,M,0,118
+25,Sandra Campbell,296-1307-875,"65131 Pamela Mission
+East Janetbury, MS 65162",1957-04-15,2024-05-01,M,0,21
+26,Kelly Nguyen,238-1654-389,"6747 Brandon Brooks Apt. 332
+Lake Samanthaburgh, NH 76748",1960-10-26,2022-10-08,M,0,46
+27,Jennifer Allen,284-7428-650,"4395 Rangel Lake
+Port Stuart, MS 87187",1997-02-16,2020-11-06,M,0,138
+28,Jessica Leonard,854-5977-166,"201 Smith Throughway
+Wilkersonton, MS 92281",1967-08-07,2020-08-24,M,0,137
+29,Eric Potter,379-5820-214,"Unit 3956 Box 5637
+DPO AP 47153",1964-08-08,2023-05-13,M,0,153
+30,Kelly Luna,686-4374-718,"02971 Deborah Park Suite 317
+Kaylaburgh, SC 18204",1956-08-08,2021-03-02,F,0,170
+31,Andrew Daugherty,959-1169-623,"5466 Ferguson Valleys
+West Samantha, OR 48404",1955-12-31,2021-12-01,F,0,77
+32,Justin Garrison,650-2803-546,"0153 John Locks
+North Jennifer, FM 95574",1970-10-28,2023-10-15,F,0,127
+33,Clarence Cantrell,746-4010-167,"6489 Rice Route
+Mckeeville, MT 28987",1988-12-25,2024-03-12,M,0,80
+34,Joseph Holloway,473-6216-276,"299 Bruce Road
+Lake Charles, UT 95406",1963-10-30,2022-11-16,F,0,132
+35,Emily Anderson,947-9125-224,"308 Merritt Canyon Suite 719
+Port Brandonmouth, CT 46671",1990-05-18,2024-11-02,M,0,140
+36,Tony Daniel,701-5313-863,"962 Bullock Ramp Suite 623
+Maxwellmouth, IL 35242",2006-01-02,2024-10-29,M,0,122
+37,Mary Braun,786-0916-234,"288 Courtney Canyon
+Garciamouth, ID 71810",1957-07-22,2020-04-11,F,0,111
+38,Michael Hinton,841-0525-824,"106 Zhang Junctions Apt. 133
+Proctorfort, SD 74060",1955-03-29,2024-03-22,M,0,141
+39,Rachel Edwards,323-6572-274,"607 Mark Bridge Suite 415
+North Christopher, WY 77879",1973-02-01,2020-11-27,F,0,81
+40,Christina Hunt,067-3456-935,"USCGC Spears
+FPO AA 24272",2002-12-11,2024-04-22,F,0,105
+41,Mr. Brian Brewer,965-9292-897,"3157 Walter Ford
+Sabrinamouth, NY 96139",1974-05-05,2024-05-31,F,0,133
+42,John Gardner,735-5155-217,"07475 Young Tunnel
+Martinland, TN 37526",2003-09-01,2023-03-30,F,0,91
+43,Ryan Hunt,671-8179-405,"5339 Jones Gateway Apt. 219
+Samuelhaven, MA 47647",1979-02-18,2024-12-11,F,0,87
+44,Amanda Erickson,905-7517-146,"Unit 4082 Box 4265
+DPO AP 26478",1990-04-07,2023-02-25,F,0,125
+45,Morgan Murray,271-2287-252,"95687 Mcgrath View
+Katherinefort, IN 60711",1961-02-14,2021-09-11,M,0,129
+46,Stanley Nguyen,762-9197-551,"8091 Laura Flat
+Susantown, MO 63009",1995-01-10,2021-06-29,M,0,50
+47,Patricia Ford,269-9577-438,"1990 Frey Gateway Suite 138
+Amandachester, CT 99802",1945-11-06,2020-07-03,F,0,157
+48,Eric Campbell,919-9560-408,"942 Megan Shore
+Nathanview, NY 40244",2007-04-12,2020-05-25,M,0,133
+49,Robert Ford,370-3593-141,"04547 Zachary Squares
+Michellemouth, WY 20696",1992-02-02,2021-03-27,M,0,129
+50,Alec Foster,521-8085-093,"USCGC Walters
+FPO AA 71313",1964-03-05,2023-06-03,M,0,104
+51,Jennifer Johnson,773-0771-881,"3295 Holt Shoals Suite 915
+Mosesberg, AK 74881",1994-11-07,2022-06-02,F,0,56
+52,Joseph Barajas,112-2504-642,"14318 Marks Summit Apt. 306
+East Stevenville, TX 02757",1985-08-05,2021-06-03,M,0,81
+53,Travis Miller,163-6916-610,"5739 Kelly Dam
+Allenborough, CA 27762",1987-03-17,2021-03-03,M,0,122
+54,Scott Myers,065-6304-390,"30107 Justin Village
+Jenniferton, NE 26161",1984-04-18,2023-08-19,F,0,84
+55,Tara Martin,610-7668-541,"57547 Sarah Tunnel Suite 377
+Lake Stephanie, TX 02625",1976-09-22,2023-08-04,M,0,124
+56,Ashley Wood,257-9064-881,"USCGC Brown
+FPO AP 13486",1986-02-20,2023-12-13,M,0,142
+57,Ryan Mayer,965-0188-696,"919 Margaret Valley
+South Louisshire, DE 06963",1989-03-08,2024-09-28,M,0,88
+58,Chelsey Burns,738-1876-698,"610 Natasha Creek
+Stevenside, VT 48482",1992-12-28,2024-03-05,M,0,168
+59,Laura Miller,906-8797-768,"669 Beth Land Suite 245
+South David, MP 61585",1959-10-30,2022-04-19,M,0,31
+60,Julie Turner,273-5573-114,"263 Lee Island Apt. 616
+Hernandezland, HI 91762",2002-09-28,2024-04-22,M,0,115
+61,Deborah Young,300-7123-161,"2255 Walsh Village Apt. 748
+Port Austinmouth, VA 93874",1958-03-31,2023-03-24,M,0,104
+62,Alexis Vasquez,464-0053-976,"0915 James Plains
+Port Kaylee, NV 64242",1953-01-10,2023-10-26,F,0,251
+63,Joseph Chan,739-4315-995,"USNV Taylor
+FPO AE 31810",1954-06-17,2024-02-15,M,0,115
+64,Terry Jacobson,512-2927-519,"9050 Jackson Roads Apt. 152
+Coleside, WI 78393",1944-11-13,2022-07-20,M,0,88
+65,Sara Harrington,934-1743-891,"419 Stephen Glens Suite 812
+South Joshualand, WY 06431",1945-10-11,2020-06-05,M,0,51
+66,Jamie Young,640-4889-861,"8881 Shaw Ways
+Wadeville, AK 48702",1955-08-30,2022-05-30,M,0,102
+67,Kimberly Moss,654-8317-623,"3164 Alexander Bypass
+Sloanside, MN 68760",1981-09-08,2023-07-30,F,0,117
+68,Ashley Richardson,203-2504-382,"Unit 1083 Box 9602
+DPO AA 99519",1997-09-25,2024-05-23,F,0,84
+69,Michelle Lara,780-2646-552,"492 Sandra Center
+Coxside, ND 68792",1989-12-04,2023-07-16,F,0,84
+70,Todd Spencer,976-8689-940,"7214 Wallace Hills Suite 590
+New David, RI 19514",1989-03-11,2024-09-09,M,0,173
+71,Troy Chapman,000-9813-331,"56338 Hall Hills Suite 043
+Weaverborough, WI 52672",1987-08-10,2023-07-20,F,0,112
+72,David Valdez,500-0319-114,"017 Jimenez Ford Apt. 190
+Chadstad, MS 10026",1949-11-12,2022-11-25,M,0,164
+73,Anne Little,951-5947-899,"405 Randall Point Suite 564
+New Rebeccahaven, LA 23205",1951-11-09,2021-05-22,F,0,118
+74,James Graves,851-5038-245,"32059 Jonathan Branch
+Jordantown, NE 41544",2001-12-22,2022-04-04,F,0,97
+75,Frank Hamilton,059-3946-899,"82936 Dana Greens Apt. 129
+New Ronaldside, AL 67079",1983-05-26,2024-08-27,M,0,193
+76,Jason Cabrera,580-1290-087,"473 Ochoa Trafficway Suite 401
+North Kristenmouth, DC 56769",1945-04-10,2023-10-08,F,0,108
+77,Teresa Cummings,749-7962-835,"023 Bowers Radial Suite 651
+Michaelside, VT 98534",1978-08-01,2023-01-06,F,0,101
+78,Hector Matthews,070-8727-784,"167 Jennifer Mission
+Sellersburgh, CT 21566",1956-07-04,2021-11-07,F,0,77
+79,Dr. Dustin Lawrence,128-2103-675,"39085 Margaret Neck Suite 310
+Wesleyland, VA 35068",1986-06-26,2021-08-27,M,0,50
+80,Samuel Williams,486-9007-169,"12310 Linda Green Suite 058
+East Sheilafort, WY 62766",2001-07-18,2020-12-08,M,0,113
+81,Robert Reed,271-8645-893,"24348 Parker Trail Apt. 430
+Port Dylanville, RI 16919",1995-04-10,2024-01-22,F,0,153
+82,Mary Henry,621-6932-987,"1514 Sanchez Harbor Apt. 539
+New Lisamouth, MT 13745",1946-12-18,2025-01-03,M,0,91
+83,Larry Bryant,216-8835-773,"486 Cox Crescent
+New Kyle, GU 12775",1980-09-01,2021-06-23,M,0,131
+84,Douglas Willis,747-3295-730,"32965 Adam Gardens
+East Heather, OK 11877",1958-10-29,2023-11-03,M,0,143
+85,William Smith,319-6537-687,"916 Rojas Islands
+Port Charles, KS 09981",1947-03-20,2023-02-27,F,0,120
+86,Joe Ray,665-6118-448,"5490 Travis Path
+Christophertown, NH 45724",2008-12-02,2021-11-06,M,0,184
+87,Lisa Hall,921-8479-462,"PSC 4447, Box 7329
+APO AE 62047",1971-03-20,2024-09-26,F,0,133
+88,Ryan Odom,123-4061-230,"235 Lawrence Hollow
+West Charles, NC 28433",1991-12-23,2024-09-17,M,0,117
+89,Randy Henderson,065-5539-021,"769 Rebekah Brooks
+Mccarthyton, RI 98286",2006-01-27,2023-05-06,M,0,137
+90,Gary Bass,602-9075-235,"5408 Torres Knolls
+Barryshire, TX 21340",1988-07-08,2021-01-12,F,0,79
+91,Susan Jones,602-3608-007,"89045 Michelle Branch Suite 215
+Elizabethview, IN 61495",1994-07-02,2021-01-30,F,0,82
+92,Kathy Pearson,072-0964-234,"01897 Emily Plain Apt. 888
+Hickmantown, MI 29472",1950-09-27,2021-04-16,M,0,143
+93,Kyle Weber,069-0514-880,"7399 Mendez Squares Suite 134
+Amberstad, MS 26058",1949-12-15,2020-04-12,F,0,83
+94,Thomas Brown,338-1160-526,"4640 Lynch Oval
+Lake Elizabeth, AZ 17229",1948-09-01,2022-11-02,F,0,78
+95,Patricia Chapman,243-4562-685,"2240 Annette Loop Suite 995
+Jordantown, NY 65435",1969-07-02,2023-02-16,M,0,154
+96,Juan Henderson,497-3510-552,"79982 Lawrence Ports Suite 484
+North Thomasland, CA 59483",1948-12-01,2025-01-29,F,0,68
+97,Thomas Barnett,135-9355-590,"61353 Tara Shore Suite 113
+Sandovalfurt, NY 37597",1977-05-30,2020-07-08,M,0,211
+98,Ryan Gregory,484-3981-803,"176 Robinson Tunnel
+Christinehaven, AL 64661",1977-03-16,2020-07-31,M,0,99
+99,Michael Blake,484-6669-194,"3508 Little Harbors Apt. 911
+Mckinneyland, AL 79582",1961-01-05,2022-12-07,F,131,131
+100,Colton Miller,096-1588-674,"USCGC Barber
+FPO AE 18417",1958-10-06,2024-09-01,M,0,84
