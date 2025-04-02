@@ -471,6 +471,40 @@ def gen_employee(num_departments):
 # product: productId, name, category, description, unit_price, state, rating
 def gen_product():
     product_df = pd.read_csv('product.csv')
+
+    # products = [
+    # ("Black Coffee", "Coffee"),
+    # ("Milk Coffee", "Coffee"),
+    # ("Bac Xiu", "Coffee"),
+    # ("Espresso", "Coffee"),
+    # ("Cappuccino", "Coffee"),
+    # ("Latte", "Coffee"),
+    # ("Peach Orange Lemongrass Tea", "Tea"),
+    # ("Jasmine Honey Tea", "Tea"),
+    # ("Ginger Tea", "Tea"),
+    # ("Green Tea with Lemon & Honey", "Tea"),
+    # ("Oolong Strawberry Tea", "Tea"),
+    # ("Lychee Tea", "Tea"),
+    # ("Classic Milk Tea", "Milk Tea"),
+    # ("Brown Sugar Bubble Milk Tea", "Milk Tea"),
+    # ("Matcha Milk Tea", "Milk Tea"),
+    # ("Peach Milk Tea", "Milk Tea"),
+    # ("Mint Milk Tea", "Milk Tea"),
+    # ("Taro Milk Tea", "Milk Tea"),
+    # ("Passion Fruit Soda", "Soda"),
+    # ("Blueberry Soda", "Soda"),
+    # ("Strawberry Soda", "Soda"),
+    # ("Kiwi Soda", "Soda"),
+    # ("Mint Soda", "Soda"),
+    # ("Pâté Baguette", "Banh Mi"),
+    # ("Egg Baguette", "Banh Mi"),
+    # ("Shredded Chicken Baguette", "Banh Mi"),
+    # ("Grilled Beef Baguette", "Banh Mi"),
+    # ("Coconut Ice Cream", "Ice Cream"),
+    # ("Durian Ice Cream", "Ice Cream"),
+    # ("Green Tea Ice Cream", "Ice Cream")
+    # ]
+
     
     productId = range(1, len(product_df) + 1)
     name = product_df['product_name'].tolist()
