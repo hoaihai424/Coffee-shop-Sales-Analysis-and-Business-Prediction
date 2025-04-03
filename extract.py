@@ -11,14 +11,17 @@ fake = Faker()
 GOOGLE_API_KEY = os.getenv('GOOGLE_CALENDAR_API_KEY')
 
 # order: oderId, customerId, orderDate, orderTime, total_quantity, total_price, employeeId
-def gen_order_data(num_orders, customerList, date_list, employeeList):
+def gen_order_data(num_orders, numCustomer, date_df, employeeList):
     id_list = range(1, num_orders + 1)
-    cusId = [random.randint(1, len(customerList)) for _ in range(num_orders)]
-    date_list = [random.choice(date_list) for _ in range(num_orders)]
-    time_list = [time(random.randint(6,21), random.randint(0,59), random.randint(0,59)).strftime("%H:%M:%S") for _ in range(num_orders)]
     quantity_list = [0] * num_orders
     price_list = [0] * num_orders
-    employeeId_list = [random.choice(employeeList) for _ in range(num_orders)]
+    cusId, date_list, time_list, employeeId_list = [], [], [], []
+
+    for i in range(num_orders):
+        cusId.append(random.randint(1, numCustomer))
+        date_list.append(random.choice(date_df['dateID'].tolist()))
+        time_list.append(time(random.randint(6, 21), random.randint(0, 59), random.randint(0, 59)).strftime("%H:%M:%S"))
+        employeeId_list.append(random.choice(employeeList['employeeId']))
 
     df = pd.DataFrame({
         'orderId': id_list,
@@ -52,18 +55,21 @@ def gen_order_item(order_df, product_df, customer_df):
                 productId = random.randint(1, len(product_df))
             prod_set.add(productId)
             quant = random.randint(1, 5)
+            total = round(product_df.iloc[productId - 1]["unit_price"] * quant, 2)
+
             id_list.append(id)
             product_list.append(productId)
-            price_list.append(product_df.iloc[productId - 1]["unit_price"] * quant)
+            price_list.append(total)
             quantity_list.append(quant)
             discount_list.append(0)
-            total_price += product_df.iloc[productId - 1]["unit_price"] * quant
+
+            total_price += total
 
         order_df.loc[i, 'total_quantity'] = quantity
         order_df.loc[i, 'total_price'] = total_price
         customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'remaining_point'] += total_price // 5
 
-    customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'point'] = customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'remaining_point']
+        customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'point'] = customer_df.loc[order_df.iloc[i]['customerId'] - 1, 'remaining_point']
 
     df = pd.DataFrame({
         "id": id_list,
@@ -272,7 +278,7 @@ def gen_gift_exchange(num_gift_exchanges, customer_df, date_df, gift_df):
     return df
 
 # gift: giftId, name, state, point
-def gen_gift(num_gifts):
+def gen_gift():
     gift_list = [
         "Keychain with store logo", "Document clip engraved with logo", "Handmade wooden coaster", "Luxury pen",
         "Branded helmet", "Tote bag with logo", "Branded t-shirt", "Scarf or winter beanie",
@@ -308,11 +314,12 @@ def gen_customer(num_customers):
     customerId = range(1, num_customers + 1)
     name = [fake.name() for _ in range(num_customers)]
     phone_number = [gen_fake_phone_number() for _ in range(num_customers)]
-    address = [fake.address() for _ in range(num_customers)]
+    address = [fake.address().replace('\n', ' ') for _ in range(num_customers)]
     DOB = [fake.date_of_birth(minimum_age=16, maximum_age=80) for _ in range(num_customers)]
     customer_since = [fake.date_between(start_date='-5y', end_date='today') for _ in range(num_customers)]
     gender = ['M' if random.randint(0, 1) == 0 else 'F' for _ in range(num_customers)]
     point = [0] * num_customers
+    remaining_point = [0] * num_customers
 
     df = pd.DataFrame({
         'customerId': customerId,
@@ -322,23 +329,9 @@ def gen_customer(num_customers):
         'DOB': DOB,
         'customer_since': customer_since,
         'gender' : gender,
-        'point': point
+        'point': point,
+        'remaining_point': remaining_point
     })
-
-    take_away_customer = {
-        'customerId' : 0, 
-        'name' : 'Take away customer', 
-        'phone_number' : '000-0000-000', 
-        'address' : None, 
-        'DOB' : None, 
-        'customer_since' : None,
-        'gender' : None,
-        'point' : 0
-    }
-    
-    df = pd.concat([pd.DataFrame([take_away_customer]), df], ignore_index=True)
-
-    df['remaining_point'] = [0] * len(df)
 
     return df
 
@@ -377,15 +370,7 @@ def gen_date():
     date_range = pd.date_range(start=start_date, end=end_date)
     holidays = [(x["start"]["date"], x["summary"]) for x in get_holidays()["items"]]
     
-    dateID = []
-    day = []
-    week = []
-    month = []
-    quarter = []
-    year = []
-    isHoliday = []
-    isWeekend = []
-    holidayName = []
+    dateID, day, week, month, quarter, year, isHoliday, isWeekend, holidayName = [], [], [], [], [], [], [], [], []
 
     for date in date_range:
         dateID.append(convert_date_to_dateId(date.year, date.month, date.day))
@@ -472,40 +457,6 @@ def gen_employee(num_departments):
 def gen_product():
     product_df = pd.read_csv('product.csv')
 
-    # products = [
-    # ("Black Coffee", "Coffee"),
-    # ("Milk Coffee", "Coffee"),
-    # ("Bac Xiu", "Coffee"),
-    # ("Espresso", "Coffee"),
-    # ("Cappuccino", "Coffee"),
-    # ("Latte", "Coffee"),
-    # ("Peach Orange Lemongrass Tea", "Tea"),
-    # ("Jasmine Honey Tea", "Tea"),
-    # ("Ginger Tea", "Tea"),
-    # ("Green Tea with Lemon & Honey", "Tea"),
-    # ("Oolong Strawberry Tea", "Tea"),
-    # ("Lychee Tea", "Tea"),
-    # ("Classic Milk Tea", "Milk Tea"),
-    # ("Brown Sugar Bubble Milk Tea", "Milk Tea"),
-    # ("Matcha Milk Tea", "Milk Tea"),
-    # ("Peach Milk Tea", "Milk Tea"),
-    # ("Mint Milk Tea", "Milk Tea"),
-    # ("Taro Milk Tea", "Milk Tea"),
-    # ("Passion Fruit Soda", "Soda"),
-    # ("Blueberry Soda", "Soda"),
-    # ("Strawberry Soda", "Soda"),
-    # ("Kiwi Soda", "Soda"),
-    # ("Mint Soda", "Soda"),
-    # ("Pâté Baguette", "Banh Mi"),
-    # ("Egg Baguette", "Banh Mi"),
-    # ("Shredded Chicken Baguette", "Banh Mi"),
-    # ("Grilled Beef Baguette", "Banh Mi"),
-    # ("Coconut Ice Cream", "Ice Cream"),
-    # ("Durian Ice Cream", "Ice Cream"),
-    # ("Green Tea Ice Cream", "Ice Cream")
-    # ]
-
-    
     productId = range(1, len(product_df) + 1)
     name = product_df['product_name'].tolist()
     category = product_df['product_category'].tolist()
@@ -525,40 +476,3 @@ def gen_product():
     })
 
     return df
-
-if __name__ == "__main__":
-    # Set random seed for reproducibility
-    random.seed(42)
-
-    # Generate data
-    num_orders = 1000
-    num_customers = 100
-    num_departments = 3
-    num_gift_exchanges = 10
-    num_reviews = 100
-
-    customer_df = gen_customer(num_customers)
-    date_df = gen_date()
-    product_df = gen_product()
-    department_df = gen_department(num_departments)
-    employee_df = gen_employee(num_departments)
-    
-    order_df = gen_order_data(num_orders, customer_df, date_df['dateID'].tolist(), employee_df['employeeId'].tolist())
-    order_item_df = gen_order_item(order_df, product_df, customer_df)
-    review_df = gen_review(num_reviews, num_customers, product_df, date_df)
-    
-    gift_df = gen_gift(30)
-    gift_exchange_df = gen_gift_exchange(num_gift_exchanges, customer_df, date_df, gift_df)
-
-    # Save data to CSV files
-    customer_df.to_csv('dataset/customer.csv', index=False)
-    date_df.to_csv('dataset/date.csv', index=False)
-    product_df.to_csv('dataset/product.csv', index=False)
-    department_df.to_csv('dataset/department.csv', index=False)
-    employee_df.to_csv('dataset/employee.csv', index=False)
-    order_df.to_csv('dataset/order.csv', index=False)
-    order_item_df.to_csv('dataset/order_item.csv', index=False)
-    review_df.to_csv('dataset/review.csv', index=False)
-    gift_exchange_df.to_csv('dataset/gift_exchange.csv', index=False)
-    gift_df.to_csv('dataset/gift.csv', index=False)
-    print("Data generation completed.")

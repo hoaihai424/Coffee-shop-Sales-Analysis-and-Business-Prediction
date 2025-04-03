@@ -1,0 +1,85 @@
+productId,name,category,description,unit_price,state,rating
+1,Brazilian - Organic,Coffee beans,It's like Carnival in a cup. Clean and smooth.,14.4,available,4.0
+2,Our Old Time Diner Blend,Coffee beans,Out packed blend of beans that is reminiscent of the cup of coffee you used to get at a diner.,14.4,available,0.0
+3,Espresso Roast,Coffee beans,Our house blend for a good espresso shot.,11.8,available,1.0
+4,Primo Espresso Roast,Coffee beans,Our primium single source of hand roasted beans.,16.36,available,5.0
+5,Columbian Medium Roast,Coffee beans,A smooth cup of coffee any time of day.,12.0,available,4.0
+6,Ethiopia,Coffee beans,From the home of coffee.,16.8,available,6.0
+7,Jamacian Coffee River,Coffee beans,"Ya man, it will start your day off right. ",15.8,available,0.0
+8,Civet Cat,Coffee beans,"The most expensive coffee in the world, the cats do all the work. ",36.0,available,4.0
+9,Organic Decaf Blend,Coffee beans,Our blend of hand picked organic beans that have been naturally decaffinated.,18.0,available,7.0
+10,Guatemalan Sustainably Grown,Coffee beans,Green beans you can roast yourself.,8.0,available,1.0
+11,Lemon Grass,Loose Tea,You will think you are Thailand as you sip your cuppa.,7.16,available,9.0
+12,Peppermint,Loose Tea,Cool and refreshing to help calm your nerves.,7.16,available,1.0
+13,English Breakfast,Loose Tea,The traditional cup to start your day.,7.16,available,2.0
+14,Earl Grey,Loose Tea,A full leaf of Orange Pekoe blended with organic oil of bergamot.,7.16,available,10.0
+15,Serenity Green Tea,Loose Tea,Mountain grown and harvested at the optimal time.,7.4,available,8.0
+16,Traditional Blend Chai,Loose Tea,A traditional blend.,7.16,available,8.0
+17,Morning Sunrise Chai,Loose Tea,Fair trade and organic and has a warm finish.,7.6,available,10.0
+18,Spicy Eye Opener Chai,Loose Tea,A spicier blend to awaken your taste buds.,8.76,available,1.0
+19,Dark chocolate,Packaged Chocolate,This drinking chocolate is smooth and creamy.,5.12,available,5.5
+20,Sustainably Grown Organic,Packaged Chocolate,Certified organic containing the highest quality ingredients.,6.08,available,5.67
+21,Chili Mayan,Packaged Chocolate,"Fragrant with spices, this is the most flavourful drinking chocolate you will find.",10.66,available,4.0
+22,Our Old Time Diner Blend Sm,Coffee,An honest cup a coffee.,0.4,available,4.0
+23,Our Old Time Diner Blend Rg,Coffee,An honest cup a coffee.,0.5,available,0.0
+24,Our Old Time Diner Blend Lg,Coffee,An honest cup a coffee.,0.6,available,6.0
+25,Brazilian Sm,Coffee,It's like Carnival in a cup. Clean and smooth.,0.44,available,10.0
+26,Brazilian Rg,Coffee,It's like Carnival in a cup. Clean and smooth.,0.6,available,2.0
+27,Brazilian Lg,Coffee,It's like Carnival in a cup. Clean and smooth.,0.7,available,4.0
+28,Columbian Medium Roast Sm,Coffee,A smooth cup of coffee any time of day.,0.4,available,3.0
+29,Columbian Medium Roast Rg,Coffee,A smooth cup of coffee any time of day.,0.5,available,7.0
+30,Columbian Medium Roast Lg,Coffee,A smooth cup of coffee any time of day.,0.6,available,0.0
+31,Ethiopia Sm,Coffee,A bold cup when you want that something extra.,0.44,available,2.0
+32,Ethiopia Rg,Coffee,A bold cup when you want that something extra.,0.6,available,4.0
+33,Ethiopia Lg,Coffee,A bold cup when you want that something extra.,0.7,available,0.0
+34,Jamaican Coffee River Sm,Coffee,Still a front runner for good premium coffee.,0.49,available,0.0
+35,Jamaican Coffee River Rg,Coffee,Still a front runner for good premium coffee.,0.62,available,5.0
+36,Jamaican Coffee River Lg,Coffee,Still a front runner for good premium coffee.,0.75,available,7.5
+37,Espresso shot,Coffee,You will think you are in Venice when you sip this one.,0.6,available,5.33
+38,Latte,Coffee,You will think you are in Venice when you sip this one.,0.75,available,0.0
+39,Latte Rg,Coffee,You will think you are in Venice when you sip this one.,0.85,available,1.0
+40,Cappuccino,Coffee,You will think you are in Venice when you sip this one.,0.75,available,5.5
+41,Cappuccino Lg,Coffee,You will think you are in Venice when you sip this one.,0.85,available,6.0
+42,Lemon Grass Rg,Tea,You will think you are in Thailand.,0.63,available,5.0
+43,Lemon Grass Lg,Tea,You will think you are in Thailand.,0.75,available,3.0
+44,Peppermint Rg,Tea,A cool and refreshing cup.,0.63,available,8.33
+45,Peppermint Lg,Tea,A cool and refreshing cup.,0.75,available,4.0
+46,Serenity Green Tea Rg,Tea,Feel the stress leaving your body.,0.63,available,2.0
+47,Serenity Green Tea Lg,Tea,Feel the stress leaving your body.,0.75,available,0.0
+48,English Breakfast Rg,Tea,The Queen's favourite cuppa in the morning.,0.63,available,4.0
+49,English Breakfast Lg,Tea,The Queen's favourite cuppa in the morning.,0.75,available,4.0
+50,Earl Grey Rg,Tea,Tradition in a cup.,0.63,available,3.5
+51,Earl Grey Lg,Tea,Tradition in a cup.,0.75,available,4.5
+52,Traditional Blend Chai Rg,Tea,Sit back and think of the tropical breezes.,0.63,available,9.0
+53,Traditional Blend Chai Lg,Tea,Sit back and think of the tropical breezes.,0.75,available,0.0
+54,Morning Sunrise Chai Rg,Tea,Face the morning after your yoga routine.,0.63,available,4.0
+55,Morning Sunrise Chai Lg,Tea,Face the morning after your yoga routine.,1.0,available,2.0
+56,Spicy Eye Opener Chai Rg,Tea,When you need your eyes opened wide.,0.64,available,0.0
+57,Spicy Eye Opener Chai Lg,Tea,When you need your eyes opened wide.,0.78,available,4.0
+58,Dark chocolate Rg,Drinking Chocolate,"Slightly bitter, but still very rich. ",2.63,available,0.0
+59,Dark chocolate Lg,Drinking Chocolate,"Slightly bitter, but still very rich. ",3.38,available,10.0
+60,Sustainably Grown Organic Rg,Drinking Chocolate,Just pure notes of spice.,2.81,available,9.0
+61,Sustainably Grown Organic Lg,Drinking Chocolate,Just pure notes of spice.,3.56,available,4.5
+62,Snow Day Hot Chocolate,Drinking Chocolate,Added marshmallows for the needed sugar rush.,2.25,available,9.0
+63,Carmel syrup,Flavours,Rich carmel taste,0.04,available,4.0
+64,Hazelnut syrup,Flavours,Bursting with nutty flavour,0.04,available,5.0
+65,Sugar Free Vanilla syrup,Flavours,Our favorite,0.04,available,8.67
+66,Pumpkin Spice Latte,Coffee,"Boo, its that time of year again",0.99,available,0.0
+67,Pumpkin Spice Latte Lg,Coffee,"Boo, its that time of year again",1.19,available,0.0
+68,Happy Holidays hot chocolate,Drinking Chocolate,"Candy cane and hot chocolate, perfect.",2.81,available,6.0
+69,Croissant,Bakery,Flakey and buttery,2.11,available,4.0
+70,Cranberry Scone,Bakery,Like Grandma used to make,2.11,available,5.5
+71,Chocolate Croissant,Bakery,Chocolate flakes,2.44,available,4.67
+72,Ginger Scone,Bakery,Little bit of spice,2.11,available,1.0
+73,Almond Croissant,Bakery,Crunch!,2.44,available,3.0
+74,Ginger Biscotti,Bakery,Crunch!,2.28,available,2.0
+75,Hazelnut Biscotti,Bakery,Crunch!,2.28,available,5.0
+76,Chocolate Chip Biscotti,Bakery,Crunch!,2.28,available,4.0
+77,Oatmeal Scone,Bakery,Grannys fav,1.95,available,5.0
+78,Scottish Cream Scone,Bakery,Old time comfort,2.93,available,0.0
+79,Jumbo Savory Scone,Bakery,"Anytime, anywhere",2.44,available,3.0
+80,Chocolate syrup,Flavours,Bursting with chocolate flavour,0.04,available,7.0
+81,Rio Nights,Coffee,2 shots of Ouro Brasilerio and pure cane sugar syrup,1.2,available,9.0
+82,Ouro Brasileiro shot,Coffee,From Rio,0.6,available,0.0
+83,Ouro Brasileiro shot promo,Coffee,Ouro promo,0.42,available,0.0
+84,Ginger Scone promo,Bakery,Little bit of spice,1.72,available,0.0
