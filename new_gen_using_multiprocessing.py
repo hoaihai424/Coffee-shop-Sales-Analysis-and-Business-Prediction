@@ -603,17 +603,30 @@ def gen_review(num_reviews, num_customers, product_df, date_df):
         "It was a complete letdown and not enjoyable.",
     ]
 
-    product_list = []
+    used_set = set()
+    product_list = []   
     customer_list = []
     rating_list = []
     comment_list = []
     date_list = []
 
-    for i in range(num_reviews):
-        productId = random.randint(1, len(product_df))
-        customerId = random.randint(1, num_customers)
-        rating = random.randint(1, 10)
+    num_products = len(product_df)
+    date_ids = date_df["dateID"].tolist()
 
+    # Tạo random review
+    i = 0
+    while i < num_reviews:
+        productId = random.randint(1, num_products)
+        customerId = random.randint(1, num_customers)
+        dateId = random.choice(date_ids)  # random dateID
+
+        combo = (productId, customerId, dateId)
+        if combo in used_set:
+            # bị trùng, chọn lại
+            continue
+        used_set.add(combo)  # đánh dấu combo này đã dùng
+
+        rating = random.randint(1, 10)
         if rating <= 4:
             comment = random.choice(negative_comments)
         elif rating <= 7:
@@ -621,13 +634,13 @@ def gen_review(num_reviews, num_customers, product_df, date_df):
         else:
             comment = random.choice(positive_comments)
 
-        date_str = random.choice(date_df["dateID"].tolist())
-
         product_list.append(productId)
         customer_list.append(customerId)
         rating_list.append(rating)
         comment_list.append(comment)
-        date_list.append(date_str)
+        date_list.append(dateId)
+
+        i += 1
 
     review_df = pd.DataFrame(
         {
