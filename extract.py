@@ -404,10 +404,14 @@ def gen_date():
 # department: departmentId, name, location, phone_number, email
 def gen_department(num_departments):
     departmentId = range(1, num_departments + 1)
-    name = [fake.company() for _ in range(num_departments)]
-    location = [fake.city() for _ in range(num_departments)]
-    phone_number = [gen_fake_phone_number() for _ in range(num_departments)]
-    email = [fake.company_email() for _ in range(num_departments)]
+    name, location, phone_number, email = [], [], [], []
+
+    for _ in range(num_departments):
+        phone_number.append(gen_fake_phone_number())
+        location.append(fake.address().replace('\n', ' '))
+        email.append(fake.company_email())
+        name.append(fake.company())
+
     df = pd.DataFrame({
         'departmentId': departmentId,
         'name': name,
